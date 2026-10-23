@@ -1,0 +1,10272 @@
+{
+ "version": 2,
+ "app": "Houston Astros Player Directory",
+ "generated": "2026-10-23T19:00:00Z",
+ "note": "Every player by Player ID. \"photo\" points to their image in players/; null means the app shows the initials placeholder.",
+ "count": 239,
+ "players": {
+  "40MAN-2": {
+   "name": {
+    "last": "Abreu",
+    "first": "Bryan"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-2.webp",
+    "v": "1ddf43e7",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active",
+   "dob": "1997-04-22",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "40MAN-3": {
+   "name": {
+    "last": "Alexander",
+    "first": "Jason"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-3.webp",
+    "v": "9c08087a",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-4": {
+   "name": {
+    "last": "Allen",
+    "first": "Nick"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-4.webp",
+    "v": "0a5c9537",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active",
+   "dob": "1998-10-08",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "40MAN-5": {
+   "name": {
+    "last": "Altuve",
+    "first": "Jose"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-5.webp",
+    "v": "926ee937",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active",
+   "dob": "1990-05-06",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "40MAN-6": {
+   "name": {
+    "last": "Alvarez",
+    "first": "Yordan"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-6.webp",
+    "v": "c34bef6d",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active",
+   "dob": "1997-06-27",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "40MAN-7": {
+   "name": {
+    "last": "Arrighetti",
+    "first": "Spencer"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-7.webp",
+    "v": "975c1332",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-8": {
+   "name": {
+    "last": "Blanco",
+    "first": "Ronel"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-8.webp",
+    "v": "2ec6fa6c",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active",
+   "dob": "1993-08-31",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "40MAN-9": {
+   "name": {
+    "last": "Blubaugh",
+    "first": "A.J."
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-9.webp",
+    "v": "9fb1c7b6",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "40MAN-10": {
+   "name": {
+    "last": "Brown",
+    "first": "Hunter"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-10.webp",
+    "v": "3554bcee",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active",
+   "dob": "1998-08-29",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "40MAN-11": {
+   "name": {
+    "last": "Cole",
+    "first": "Zach"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-11.webp",
+    "v": "994f6fa1",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "40MAN-12": {
+   "name": {
+    "last": "Coleman",
+    "first": "Dylan"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-12.webp",
+    "v": "50551e8a",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-13": {
+   "name": {
+    "last": "Davidson",
+    "first": "Logan"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-13.webp",
+    "v": "54592d12",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-14": {
+   "name": {
+    "last": "Dezenzo",
+    "first": "Zach"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-14.webp",
+    "v": "abcc329c",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "MLB.com (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "40MAN-15": {
+   "name": {
+    "last": "Diaz",
+    "first": "Aledmys"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-15.webp",
+    "v": "b0e3489d",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-16": {
+   "name": {
+    "last": "Diaz",
+    "first": "Yainer"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-16.webp",
+    "v": "b5ffd78c",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active",
+   "dob": "1998-09-21",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "40MAN-17": {
+   "name": {
+    "last": "Dubin",
+    "first": "Shawn"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-17.webp",
+    "v": "01d7d316",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-18": {
+   "name": {
+    "last": "Dubon",
+    "first": "Mauricio"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-18.webp",
+    "v": "ddc5c20c",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-19": {
+   "name": {
+    "last": "Ferguson",
+    "first": "Caleb"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-19.webp",
+    "v": "230dff95",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-20": {
+   "name": {
+    "last": "Garcia",
+    "first": "Luis"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-20.webp",
+    "v": "68621cc3",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "MLB.com (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-21": {
+   "name": {
+    "last": "Gordon",
+    "first": "Colton"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-21.webp",
+    "v": "baf12a37",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "MLB.com (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-22": {
+   "name": {
+    "last": "Graveman",
+    "first": "Kendall"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-22.webp",
+    "v": "014a621f",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-23": {
+   "name": {
+    "last": "Gusto",
+    "first": "Ryan"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-23.webp",
+    "v": "7f865cf5",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-24": {
+   "name": {
+    "last": "Hader",
+    "first": "Josh"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-24.webp",
+    "v": "a86a57d3",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active",
+   "dob": "1994-04-07",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "40MAN-25": {
+   "name": {
+    "last": "Hernandez",
+    "first": "Nick"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-25.webp",
+    "v": "fd972b0a",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-26": {
+   "name": {
+    "last": "Hummel",
+    "first": "Cooper"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-26.webp",
+    "v": "5a8e6ede",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-27": {
+   "name": {
+    "last": "Imai",
+    "first": "Tatsuya"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-27.webp",
+    "v": "79bf94d5",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active",
+   "dob": "1998-05-09",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "40MAN-28": {
+   "name": {
+    "last": "Javier",
+    "first": "Cristian"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-28.webp",
+    "v": "45216cbf",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active",
+   "dob": "1997-03-26",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "40MAN-29": {
+   "name": {
+    "last": "Junk",
+    "first": "Janson"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-29.webp",
+    "v": "82cdaf4f",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-30": {
+   "name": {
+    "last": "Kessinger",
+    "first": "Grae"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-30.webp",
+    "v": "e595f9d5",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-31": {
+   "name": {
+    "last": "Kikuchi",
+    "first": "Yusei"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-31.webp",
+    "v": "6ca5674b",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-32": {
+   "name": {
+    "last": "King",
+    "first": "Bryan"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-32.webp",
+    "v": "d56adeec",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active",
+   "dob": "1996-11-05",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "40MAN-33": {
+   "name": {
+    "last": "Martinez",
+    "first": "Seth"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-33.webp",
+    "v": "a5de5502",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-34": {
+   "name": {
+    "last": "Matthews",
+    "first": "Brice"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-34.webp",
+    "v": "42f3669d",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "40MAN-35": {
+   "name": {
+    "last": "McCullers",
+    "first": "Lance"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-35.webp",
+    "v": "98952e49",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-36": {
+   "name": {
+    "last": "Melton",
+    "first": "Jacob"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-36.webp",
+    "v": "ffc605f0",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-37": {
+   "name": {
+    "last": "Meyers",
+    "first": "Jacob"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-37.webp",
+    "v": "777bd7a1",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active",
+   "dob": "1996-06-18",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "40MAN-38": {
+   "name": {
+    "last": "Murfee",
+    "first": "Penn"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-38.webp",
+    "v": "cf92e06b",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-39": {
+   "name": {
+    "last": "Murray",
+    "first": "Jayden"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-39.webp",
+    "v": "2c5e93f0",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-40": {
+   "name": {
+    "last": "Mushinski",
+    "first": "Parker"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-40.webp",
+    "v": "48920de4",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-41": {
+   "name": {
+    "last": "Okert",
+    "first": "Steven"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-41.webp",
+    "v": "ce1b5df4",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "40MAN-42": {
+   "name": {
+    "last": "Ort",
+    "first": "Kaleb"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-42.webp",
+    "v": "3a00912f",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-43": {
+   "name": {
+    "last": "Ortega",
+    "first": "Oliver"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-43.webp",
+    "v": "4a130803",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-44": {
+   "name": {
+    "last": "Pena",
+    "first": "Jeremy"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-44.webp",
+    "v": "e6a18b9d",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active",
+   "dob": "1997-09-22",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "40MAN-45": {
+   "name": {
+    "last": "Pressly",
+    "first": "Ryan"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-45.webp",
+    "v": "0409d816",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-46": {
+   "name": {
+    "last": "Roa",
+    "first": "Christian"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-46.webp",
+    "v": "cf341035",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "40MAN-47": {
+   "name": {
+    "last": "Rodgers",
+    "first": "Brendan"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-47.webp",
+    "v": "56d704a3",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-48": {
+   "name": {
+    "last": "Salazar",
+    "first": "Cesar"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-48.webp",
+    "v": "e8a91446",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active",
+   "dob": "1996-03-15",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "40MAN-49": {
+   "name": {
+    "last": "Smith",
+    "first": "Cam"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-49.webp",
+    "v": "448f4a35",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "40MAN-50": {
+   "name": {
+    "last": "Sousa",
+    "first": "John"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-50.webp",
+    "v": "8e46727e",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active",
+   "dob": "1995-04-06",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "40MAN-51": {
+   "name": {
+    "last": "Tucker",
+    "first": "Kyle"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-51.webp",
+    "v": "675564c6",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-52": {
+   "name": {
+    "last": "Ullola",
+    "first": "Miguel"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-52.webp",
+    "v": "2c686cc8",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "40MAN-53": {
+   "name": {
+    "last": "Urquidy",
+    "first": "Jose"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-53.webp",
+    "v": "28e8d931",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-54": {
+   "name": {
+    "last": "Valdez",
+    "first": "Framber"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-54.webp",
+    "v": "5b5b32d3",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-55": {
+   "name": {
+    "last": "Vazquez",
+    "first": "Christian"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-55.webp",
+    "v": "9fedac33",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "40MAN-56": {
+   "name": {
+    "last": "Walter",
+    "first": "Brandon"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-56.webp",
+    "v": "979283f7",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "40MAN-57": {
+   "name": {
+    "last": "Whitcomb",
+    "first": "Shay"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-57.webp",
+    "v": "c966c94c",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "40MAN-58": {
+   "name": {
+    "last": "Whitley",
+    "first": "Forrest"
+   },
+   "list": "40MAN",
+   "photo": {
+    "src": "players/40MAN-58.webp",
+    "v": "cec052b9",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "DOM-2": {
+   "name": {
+    "last": "Aguilar",
+    "first": "Luis"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-2.webp",
+    "v": "5fca1a13",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Aguilar, Luis.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-3": {
+   "name": {
+    "last": "Alexander",
+    "first": "CJ"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-3.webp",
+    "v": "ea0e0140",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Alexander, CJ.jpg"
+   },
+   "status": "active",
+   "dob": "1996-07-17",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DOM-4": {
+   "name": {
+    "last": "Alvarez",
+    "first": "Kevin"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-4.webp",
+    "v": "5eccae5a",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Alvarez, Kevin.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-5": {
+   "name": {
+    "last": "Aparicio",
+    "first": "Antony"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-5.webp",
+    "v": "c350a36a",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Aparicio, Antony.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-6": {
+   "name": {
+    "last": "Ardines",
+    "first": "Adrian"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-6.webp",
+    "v": "60651672",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "MiLB.com (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "DOM-7": {
+   "name": {
+    "last": "Areinamo",
+    "first": "Anderson"
+   },
+   "list": "DOM",
+   "photo": null,
+   "status": "active"
+  },
+  "DOM-8": {
+   "name": {
+    "last": "Arroyos",
+    "first": "Landon"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-8.webp",
+    "v": "0110de7a",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Arroyos, Landon.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-9": {
+   "name": {
+    "last": "Austin",
+    "first": "Trevor"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-9.webp",
+    "v": "7a5de790",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Austin, Trevor.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-10": {
+   "name": {
+    "last": "Baez",
+    "first": "Jhoster"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-10.webp",
+    "v": "f1974cf4",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Baez, Jhoster.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-11": {
+   "name": {
+    "last": "Balza",
+    "first": "Miguel"
+   },
+   "list": "DOM",
+   "photo": null,
+   "status": "active",
+   "dob": "2004-05-21",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DOM-12": {
+   "name": {
+    "last": "Batista",
+    "first": "Freuddy"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-12.webp",
+    "v": "cca5d93e",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Batista, Freuddy.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-13": {
+   "name": {
+    "last": "Beck",
+    "first": "Jagger"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-13.webp",
+    "v": "48f70a64",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Beck, Jagger.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-14": {
+   "name": {
+    "last": "Bello",
+    "first": "Juan"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-14.webp",
+    "v": "bf16896b",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Bello, Juan.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-15": {
+   "name": {
+    "last": "Biggers",
+    "first": "Jax"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-15.webp",
+    "v": "b2148db6",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "DOM-16": {
+   "name": {
+    "last": "Biggio",
+    "first": "Cavan"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-16.webp",
+    "v": "36140fa8",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "DOM-17": {
+   "name": {
+    "last": "Bolton",
+    "first": "Cody"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-17.webp",
+    "v": "06160975",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Bolton, Cody.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-18": {
+   "name": {
+    "last": "Borquez",
+    "first": "Nick"
+   },
+   "list": "DOM",
+   "photo": null,
+   "status": "active",
+   "dob": "2006-07-27",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DOM-19": {
+   "name": {
+    "last": "Brown",
+    "first": "Marcus"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-19.webp",
+    "v": "5bd4dee2",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "MiLB.com (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "DOM-20": {
+   "name": {
+    "last": "Brutcher",
+    "first": "Drew"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-20.webp",
+    "v": "5d5595f1",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Brutcher, Drew.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-21": {
+   "name": {
+    "last": "Burleson",
+    "first": "Grant"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-21.webp",
+    "v": "68b831c3",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Burleson, Grant.jpg"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "DOM-22": {
+   "name": {
+    "last": "Bush",
+    "first": "Will"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-22.webp",
+    "v": "ca3cd6b5",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Bush, Will.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-23": {
+   "name": {
+    "last": "Call",
+    "first": "Chase"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-23.webp",
+    "v": "0599eb11",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Call, Chase.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-24": {
+   "name": {
+    "last": "Carrera",
+    "first": "Jesus"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-24.webp",
+    "v": "f9e41cfb",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Carrera, Jesus.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-25": {
+   "name": {
+    "last": "Cassedy",
+    "first": "Brandon"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-25.webp",
+    "v": "2726a9b8",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Cassedy, Brandon.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-26": {
+   "name": {
+    "last": "Cauro",
+    "first": "Carlos"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-26.webp",
+    "v": "0d995c1b",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Cauro, Carlos.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-27": {
+   "name": {
+    "last": "Chirinos",
+    "first": "Amilcar"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-27.webp",
+    "v": "df88e55d",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Chirinos, Amilcar.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-28": {
+   "name": {
+    "last": "Cosgrove",
+    "first": "Tom"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-28.webp",
+    "v": "0ce5e362",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "DOM-29": {
+   "name": {
+    "last": "Cruz",
+    "first": "Anthony"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-29.webp",
+    "v": "14a3b672",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Cruz, Anthony.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-30": {
+   "name": {
+    "last": "Cuneo",
+    "first": "August"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-30.webp",
+    "v": "c506c512",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Cuneo, August.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-31": {
+   "name": {
+    "last": "Daudet",
+    "first": "Zach"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-31.webp",
+    "v": "9a996b8d",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Daudet, Zach.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-32": {
+   "name": {
+    "last": "David",
+    "first": "Ramsey"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-32.webp",
+    "v": "6d426fb0",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "David, Ramsey.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-33": {
+   "name": {
+    "last": "De Leon",
+    "first": "Luis"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-33.webp",
+    "v": "288f6611",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "MiLB.com (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "DOM-34": {
+   "name": {
+    "last": "DeVos",
+    "first": "Nolan"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-34.webp",
+    "v": "c9dc2a62",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "DeVos, Nolan.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-35": {
+   "name": {
+    "last": "Diaz",
+    "first": "Camilo"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-35.webp",
+    "v": "122b8584",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Diaz, Camilo.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-36": {
+   "name": {
+    "last": "Dixon",
+    "first": "Joey"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-36.webp",
+    "v": "b93961fd",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Dixon, Joey.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-37": {
+   "name": {
+    "last": "Dombroski",
+    "first": "Trey"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-37.webp",
+    "v": "37db4b74",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Dombroski, Trey.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-38": {
+   "name": {
+    "last": "Encarnacion",
+    "first": "Yamal"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-38.webp",
+    "v": "57113ad9",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Encarnacion, Yamal.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-39": {
+   "name": {
+    "last": "Farley",
+    "first": "Elijah"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-39.webp",
+    "v": "4133510c",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Farley, Elijah.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-40": {
+   "name": {
+    "last": "Ferreras",
+    "first": "Pascanel"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-40.webp",
+    "v": "b9ac2f1c",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Ferreras, Pascanel.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-41": {
+   "name": {
+    "last": "Fleury",
+    "first": "Jose"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-41.webp",
+    "v": "ac109a89",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Fleury, Jose.jpg"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "DOM-42": {
+   "name": {
+    "last": "Flores",
+    "first": "Arturo"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-42.webp",
+    "v": "5a2e925d",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Flores, Arturo.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-43": {
+   "name": {
+    "last": "Forcucci",
+    "first": "Ryan"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-43.webp",
+    "v": "6b9ced1b",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Forcucci, Ryan.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-44": {
+   "name": {
+    "last": "Forrester",
+    "first": "Brandon"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-44.webp",
+    "v": "2a1e63fe",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Forrester, Brandon.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-45": {
+   "name": {
+    "last": "Frey",
+    "first": "Ethan"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-45.webp",
+    "v": "f8c712e7",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Frey, Ethan.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-46": {
+   "name": {
+    "last": "Fraide",
+    "first": "Juan"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-46.webp",
+    "v": "b27c1807",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Fraide, Juan.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-47": {
+   "name": {
+    "last": "Frias",
+    "first": "Francisco"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-47.webp",
+    "v": "ccaac410",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Frias, Francisco.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-48": {
+   "name": {
+    "last": "Garcia",
+    "first": "John"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-48.webp",
+    "v": "1e270eaa",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "DOM-49": {
+   "name": {
+    "last": "Gillis",
+    "first": "Brett"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-49.webp",
+    "v": "9a94c7ee",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Gillis, Brett.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-50": {
+   "name": {
+    "last": "Gómez",
+    "first": "Kenni"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-50.webp",
+    "v": "bc642a84",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Gomez, Kenni.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-51": {
+   "name": {
+    "last": "Guedez",
+    "first": "Jose"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-51.webp",
+    "v": "9cbe3fbc",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Guedez, Jose.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-52": {
+   "name": {
+    "last": "Guillemette",
+    "first": "Garret"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-52.webp",
+    "v": "e693e8d7",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "DOM-53": {
+   "name": {
+    "last": "Hebert",
+    "first": "Curtis"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-53.webp",
+    "v": "921265ea",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Hebert, Curtis.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-54": {
+   "name": {
+    "last": "Hernández",
+    "first": "Alberto"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-54.webp",
+    "v": "5d7d365e",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Hernandez, Alberto.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-55": {
+   "name": {
+    "last": "Hernandez",
+    "first": "Cesar"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-55.webp",
+    "v": "21776957",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Hernandez, Cesar.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-56": {
+   "name": {
+    "last": "Hertzler",
+    "first": "Cole"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-56.webp",
+    "v": "2a3967d5",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Hertzler, Cole.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-57": {
+   "name": {
+    "last": "Hicks",
+    "first": "James"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-57.webp",
+    "v": "8b2d382c",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Hicks, James.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-58": {
+   "name": {
+    "last": "Holy",
+    "first": "Max"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-58.webp",
+    "v": "bfdef032",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Holy, Max.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-59": {
+   "name": {
+    "last": "Howard",
+    "first": "Dylan"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-59.webp",
+    "v": "d400ce4d",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Howard, Dylan.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-60": {
+   "name": {
+    "last": "Huezo",
+    "first": "Anthony"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-60.webp",
+    "v": "2e9f22c4",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Huezo, Anthony.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-61": {
+   "name": {
+    "last": "Janek",
+    "first": "Walker"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-61.webp",
+    "v": "fafab613",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "DOM-62": {
+   "name": {
+    "last": "Knorr",
+    "first": "Michael"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-62.webp",
+    "v": "664ed68d",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "DOM-63": {
+   "name": {
+    "last": "Lambert",
+    "first": "Peter"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-63.webp",
+    "v": "1d0db359",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "DOM-64": {
+   "name": {
+    "last": "Langford",
+    "first": "Colby"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-64.webp",
+    "v": "c5784b87",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Langford, Colby.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-65": {
+   "name": {
+    "last": "Lara",
+    "first": "Wilton"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-65.webp",
+    "v": "340adba1",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Lara, Wilton.jpg"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "DOM-66": {
+   "name": {
+    "last": "Leach",
+    "first": "Hudson"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-66.webp",
+    "v": "2d0a7130",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Leach, Hudson.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-67": {
+   "name": {
+    "last": "Lebron",
+    "first": "Ariel"
+   },
+   "list": "DOM",
+   "photo": null,
+   "status": "active"
+  },
+  "DOM-68": {
+   "name": {
+    "last": "Luciano",
+    "first": "Waner"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-68.webp",
+    "v": "2199ac17",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Luciano, Waner.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-69": {
+   "name": {
+    "last": "Lytle",
+    "first": "Mason"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-69.webp",
+    "v": "9132d8e2",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Lytle, Mason.jpg"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "DOM-70": {
+   "name": {
+    "last": "MacRae",
+    "first": "Coleman"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-70.webp",
+    "v": "1626d93f",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "MacRae, Coleman.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-71": {
+   "name": {
+    "last": "Mancini",
+    "first": "Joey"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-71.webp",
+    "v": "42e458b9",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Mancini, Joey.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-72": {
+   "name": {
+    "last": "Marte",
+    "first": "Julio"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-72.webp",
+    "v": "89d553bd",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Marte, Julio.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-73": {
+   "name": {
+    "last": "Martich",
+    "first": "Eurys"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-73.webp",
+    "v": "5e923daf",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Martich, Eurys.jpg"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "DOM-74": {
+   "name": {
+    "last": "Mathiesen",
+    "first": "Ryan"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-74.webp",
+    "v": "34970a01",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Mathiesen, Ryan.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-75": {
+   "name": {
+    "last": "Mayer",
+    "first": "Bryce"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-75.webp",
+    "v": "4b10933a",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Mayer, Bryce.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-76": {
+   "name": {
+    "last": "McLoughlin",
+    "first": "Trey"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-76.webp",
+    "v": "7a668c15",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "McLoughlin, Trey.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-77": {
+   "name": {
+    "last": "McPherson",
+    "first": "Brandon"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-77.webp",
+    "v": "4ba9f546",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "McPherson, Brandon.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-78": {
+   "name": {
+    "last": "Mejía",
+    "first": "Sandy"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-78.webp",
+    "v": "9faf7bf8",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Mejia, Sandy.jpg"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "DOM-79": {
+   "name": {
+    "last": "Mieses",
+    "first": "Juan"
+   },
+   "list": "DOM",
+   "photo": null,
+   "status": "active",
+   "dob": "2006-03-31",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DOM-80": {
+   "name": {
+    "last": "Mitchell",
+    "first": "Jase"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-80.webp",
+    "v": "c0d7d892",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Mitchell, Jase.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-81": {
+   "name": {
+    "last": "Monistere",
+    "first": "Nick"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-81.webp",
+    "v": "859bb546",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Monistere, Nick.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-82": {
+   "name": {
+    "last": "Munoz",
+    "first": "Roddery"
+   },
+   "list": "DOM",
+   "photo": null,
+   "status": "active",
+   "dob": "2000-04-14",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DOM-83": {
+   "name": {
+    "last": "Nelson",
+    "first": "James"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-83.webp",
+    "v": "e1b0200c",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Nelson, James.jpg"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "DOM-84": {
+   "name": {
+    "last": "Newman",
+    "first": "DJ"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-84.webp",
+    "v": "1f4c784d",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Newman, DJ.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-85": {
+   "name": {
+    "last": "Neyens",
+    "first": "Xavier"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-85.webp",
+    "v": "79b75e45",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Neyes, Xavier.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-86": {
+   "name": {
+    "last": "Nezuh",
+    "first": "Jackson"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-86.webp",
+    "v": "05716b90",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Nezuh, Jackson.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-87": {
+   "name": {
+    "last": "Nunez",
+    "first": "Alejandro"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-87.webp",
+    "v": "d01ca23b",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Nunez, Alejandro.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-88": {
+   "name": {
+    "last": "Nunez",
+    "first": "Juan"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-88.webp",
+    "v": "0087392d",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Nunez, Juan.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-89": {
+   "name": {
+    "last": "Oakes",
+    "first": "Kellan"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-89.webp",
+    "v": "8b5a1e78",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Oakes, Kellan.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-90": {
+   "name": {
+    "last": "Obregon",
+    "first": "Ismael"
+   },
+   "list": "DOM",
+   "photo": null,
+   "status": "active"
+  },
+  "DOM-91": {
+   "name": {
+    "last": "Ochoa",
+    "first": "Nehomar"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-91.webp",
+    "v": "9fd6d880",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Ochoa, Nehomar.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-92": {
+   "name": {
+    "last": "Ogando",
+    "first": "Joan"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-92.webp",
+    "v": "16181a1a",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Ogando, Joan.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-93": {
+   "name": {
+    "last": "Pecko",
+    "first": "Ethan"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-93.webp",
+    "v": "e93a36c3",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Pecko, Ethan.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-94": {
+   "name": {
+    "last": "Pentecost",
+    "first": "Gabel"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-94.webp",
+    "v": "5d3699cf",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Pentecost, Gabel.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-95": {
+   "name": {
+    "last": "Peralta",
+    "first": "Angel"
+   },
+   "list": "DOM",
+   "photo": null,
+   "status": "active",
+   "dob": "2006-10-23",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DOM-96": {
+   "name": {
+    "last": "Pereira",
+    "first": "Sandro"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-96.webp",
+    "v": "da90a81a",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Pereira, Sandro.jpg"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "DOM-97": {
+   "name": {
+    "last": "Perez",
+    "first": "Carlos"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-97.webp",
+    "v": "95987f18",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "DOM-98": {
+   "name": {
+    "last": "Perez",
+    "first": "Javier"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-98.webp",
+    "v": "80add201",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Perez, Javier.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-99": {
+   "name": {
+    "last": "Perez",
+    "first": "Railin"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-99.webp",
+    "v": "90dfb933",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Perez, Railin.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-100": {
+   "name": {
+    "last": "Perez",
+    "first": "Reylin"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-100.webp",
+    "v": "7fa9fc66",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Perez, Reilin.jpg"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "DOM-101": {
+   "name": {
+    "last": "Petrovitch",
+    "first": "Ryan"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-101.webp",
+    "v": "91e2cd9c",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Petrovitch, Ryan.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-102": {
+   "name": {
+    "last": "Pichardo",
+    "first": "Jank"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-102.webp",
+    "v": "8ab1e18c",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Pichardo, Jank.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-103": {
+   "name": {
+    "last": "Potter",
+    "first": "Nick"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-103.webp",
+    "v": "da29d8e5",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Potter, Nick.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-104": {
+   "name": {
+    "last": "Powell",
+    "first": "Caden"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-104.webp",
+    "v": "b9a29ce0",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Powell, Caden.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-105": {
+   "name": {
+    "last": "Price",
+    "first": "Collin"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-105.webp",
+    "v": "9aa2845e",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "DOM-106": {
+   "name": {
+    "last": "Quintana",
+    "first": "Roiner"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-106.webp",
+    "v": "9a0d63ed",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Quintana, Roiner.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-107": {
+   "name": {
+    "last": "Quiroz",
+    "first": "Alexi"
+   },
+   "list": "DOM",
+   "photo": null,
+   "status": "active",
+   "dob": "2006-10-26",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DOM-108": {
+   "name": {
+    "last": "Ramírez",
+    "first": "German"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-108.webp",
+    "v": "29e8eec8",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Ramirez, German.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-109": {
+   "name": {
+    "last": "Ramos",
+    "first": "Porfirio"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-109.webp",
+    "v": "996cfb90",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Ramos, Porfirio.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-110": {
+   "name": {
+    "last": "Rives",
+    "first": "Luis"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-110.webp",
+    "v": "f5cca1a7",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Rives, Luis.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-111": {
+   "name": {
+    "last": "Rodriguez",
+    "first": "Luis"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-111.webp",
+    "v": "c6df73c3",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Rodriguez, Luis Alejandro.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-112": {
+   "name": {
+    "last": "Rodriguez",
+    "first": "Julio"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-112.webp",
+    "v": "a3cabf32",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Rodriguez, Julio.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-113": {
+   "name": {
+    "last": "Rodríguez",
+    "first": "Raimy"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-113.webp",
+    "v": "42d84857",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Rodriguez, Raimy.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-114": {
+   "name": {
+    "last": "Rojas",
+    "first": "Juan"
+   },
+   "list": "DOM",
+   "photo": null,
+   "status": "active"
+  },
+  "DOM-115": {
+   "name": {
+    "last": "Rosario",
+    "first": "Hemmanuel"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-115.webp",
+    "v": "46e89104",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Rosario, Hemmanuel.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-116": {
+   "name": {
+    "last": "Rosario",
+    "first": "Leomar"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-116.webp",
+    "v": "45ce8e6e",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Rosario, Leomar.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-117": {
+   "name": {
+    "last": "Salas",
+    "first": "Hector"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-117.webp",
+    "v": "be51f06c",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Salas, Hector.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-118": {
+   "name": {
+    "last": "Sanchez",
+    "first": "Edwin"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-118.webp",
+    "v": "9f7dc7c0",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Sanchez, Edwin.jpg"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "DOM-119": {
+   "name": {
+    "last": "Sanchez",
+    "first": "Wilmy"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-119.webp",
+    "v": "8247a276",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Sanchez, Wilmy.jpg"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "DOM-120": {
+   "name": {
+    "last": "Santa",
+    "first": "Alimber"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-120.webp",
+    "v": "a1bcb5a5",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "DOM-121": {
+   "name": {
+    "last": "Santos",
+    "first": "Alex"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-121.webp",
+    "v": "b377bf31",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Santos, Alex.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-122": {
+   "name": {
+    "last": "Santos",
+    "first": "Yeriel"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-122.webp",
+    "v": "d666c74f",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Santos, Yeriel.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-123": {
+   "name": {
+    "last": "Saunier",
+    "first": "Grayson"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-123.webp",
+    "v": "6c67a805",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Saunier, Grayson.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-124": {
+   "name": {
+    "last": "Schiavone",
+    "first": "Jason"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-124.webp",
+    "v": "0c2f1553",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Schiavone, Jason.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-125": {
+   "name": {
+    "last": "Serrano",
+    "first": "Jose"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-125.webp",
+    "v": "ab53f4af",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Serrano, Jose.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-126": {
+   "name": {
+    "last": "Sierra",
+    "first": "Juan"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-126.webp",
+    "v": "9fe0eccb",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Sierra, Juan.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-128": {
+   "name": {
+    "last": "Smith",
+    "first": "Aubrey"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-128.webp",
+    "v": "aa6bae88",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Smith, Aubrey.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-129": {
+   "name": {
+    "last": "Smith",
+    "first": "Parker"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-129.webp",
+    "v": "537e28f3",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Smith, Parker.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-130": {
+   "name": {
+    "last": "Spence",
+    "first": "Lucas"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-130.webp",
+    "v": "778bc84f",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "DOM-131": {
+   "name": {
+    "last": "Sullivan",
+    "first": "Joseph"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-131.webp",
+    "v": "6c278416",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "MiLB.com (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "DOM-132": {
+   "name": {
+    "last": "Swanson",
+    "first": "Nic"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-132.webp",
+    "v": "49c801ea",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Swanson, Nic.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-133": {
+   "name": {
+    "last": "Taylor",
+    "first": "Andrew"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-133.webp",
+    "v": "bdb5c2c0",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Taylor, Andrew.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-134": {
+   "name": {
+    "last": "Thomas",
+    "first": "Justin"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-134.webp",
+    "v": "b787c2fa",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Thomas, Justin.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-135": {
+   "name": {
+    "last": "Torres",
+    "first": "Alejandro"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-135.webp",
+    "v": "f0efbd9e",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Torres, Alejandro.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-136": {
+   "name": {
+    "last": "Trammell",
+    "first": "Taylor"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-136.webp",
+    "v": "45826a77",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "DOM-137": {
+   "name": {
+    "last": "Tredwell",
+    "first": "Alonzo"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-137.webp",
+    "v": "b46539b6",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Tredwell, Alonzo.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-138": {
+   "name": {
+    "last": "True",
+    "first": "Derek"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-138.webp",
+    "v": "3205726b",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "True, Derek.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-139": {
+   "name": {
+    "last": "Unroe",
+    "first": "Riley"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-139.webp",
+    "v": "f19296ff",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "DOM-140": {
+   "name": {
+    "last": "VanWey",
+    "first": "Logan"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-140.webp",
+    "v": "fab45992",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "DOM-141": {
+   "name": {
+    "last": "Varela",
+    "first": "Jose"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-141.webp",
+    "v": "bb6ed62f",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Varela, Jose.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-142": {
+   "name": {
+    "last": "Vasquez",
+    "first": "Yosweld"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-142.webp",
+    "v": "7f051de5",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Vasquez, Yosweld.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-143": {
+   "name": {
+    "last": "Verdugo",
+    "first": "Ryan"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-143.webp",
+    "v": "a48c17f6",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Verdugo, Ryan.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-144": {
+   "name": {
+    "last": "Wagner",
+    "first": "Ethan"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-144.webp",
+    "v": "769e3c9f",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Wagner, Ethan.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-145": {
+   "name": {
+    "last": "Wakefield",
+    "first": "Josh"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-145.webp",
+    "v": "d41bd043",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Wakefield, Josh.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-146": {
+   "name": {
+    "last": "Walker",
+    "first": "Kyle"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-146.webp",
+    "v": "6cf43cdd",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Walker, Kyle.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-147": {
+   "name": {
+    "last": "Weber",
+    "first": "Charlie"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-147.webp",
+    "v": "3aab23ab",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Weber, Charlie.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-148": {
+   "name": {
+    "last": "Wells",
+    "first": "Jackson"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-148.webp",
+    "v": "3fe478be",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Wells, Jackson.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-149": {
+   "name": {
+    "last": "Whitaker",
+    "first": "Tyler"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-149.webp",
+    "v": "dc2e6d4c",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Whitaker, Tyler.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-150": {
+   "name": {
+    "last": "Williams",
+    "first": "Jeron"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-150.webp",
+    "v": "a25691bf",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Williams, Jeron.jpg"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "DOM-151": {
+   "name": {
+    "last": "Willingham",
+    "first": "Amos"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-151.webp",
+    "v": "2abd665e",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "ESPN (cropped 600x600)"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "DOM-152": {
+   "name": {
+    "last": "Wohlgemuth",
+    "first": "Nate"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-152.webp",
+    "v": "3fa75416",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Wohlgemuth, Nate.jpg"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "DOM-153": {
+   "name": {
+    "last": "Zeglin",
+    "first": "Nico"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-153.webp",
+    "v": "b8d02f6c",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Zeglin, Nico.jpg"
+   },
+   "status": "active"
+  },
+  "DOM-154": {
+   "name": {
+    "last": "Fielder",
+    "first": "Jaydn"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-154.webp",
+    "v": "758624ef",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "MiLB.com (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "DOM-155": {
+   "name": {
+    "last": "Radel",
+    "first": "Jack"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-155.webp",
+    "v": "f91188c6",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "MiLB.com (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "DOM-156": {
+   "name": {
+    "last": "Mendes",
+    "first": "Wes"
+   },
+   "list": "DOM",
+   "photo": null,
+   "status": "active"
+  },
+  "DOM-157": {
+   "name": {
+    "last": "Durnin",
+    "first": "Kam"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-157.webp",
+    "v": "5ece231a",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "MiLB.com (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "DOM-158": {
+   "name": {
+    "last": "Eddy",
+    "first": "Gavin"
+   },
+   "list": "DOM",
+   "photo": null,
+   "status": "active"
+  },
+  "DOM-159": {
+   "name": {
+    "last": "Addari",
+    "first": "Michael"
+   },
+   "list": "DOM",
+   "photo": null,
+   "status": "active"
+  },
+  "DOM-160": {
+   "name": {
+    "last": "Carney",
+    "first": "Bryan"
+   },
+   "list": "DOM",
+   "photo": null,
+   "status": "active"
+  },
+  "DOM-161": {
+   "name": {
+    "last": "Piasecki",
+    "first": "Aaron"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-161.webp",
+    "v": "2c02db5a",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "MiLB.com (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "DOM-162": {
+   "name": {
+    "last": "Pruitt",
+    "first": "Ryan"
+   },
+   "list": "DOM",
+   "photo": null,
+   "status": "active"
+  },
+  "DOM-163": {
+   "name": {
+    "last": "Butler",
+    "first": "Tazwell"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-163.webp",
+    "v": "2be1c00e",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "MiLB.com (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "DOM-164": {
+   "name": {
+    "last": "Fiene",
+    "first": "Peyton"
+   },
+   "list": "DOM",
+   "photo": null,
+   "status": "active"
+  },
+  "DOM-165": {
+   "name": {
+    "last": "Nowak",
+    "first": "Owen"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-165.webp",
+    "v": "9de01449",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "MiLB.com (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "DOM-166": {
+   "name": {
+    "last": "Thomas",
+    "first": "Brady"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-166.webp",
+    "v": "22872c73",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "MiLB.com (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "DOM-167": {
+   "name": {
+    "last": "Galloway",
+    "first": "Rashawn"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-167.webp",
+    "v": "0945a473",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "MiLB.com (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "DOM-168": {
+   "name": {
+    "last": "Tryon",
+    "first": "Ben"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-168.webp",
+    "v": "fac40f07",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "MiLB.com (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "DOM-169": {
+   "name": {
+    "last": "Soto",
+    "first": "Petey"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-169.webp",
+    "v": "c6ae3e45",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "MiLB.com (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "DOM-170": {
+   "name": {
+    "last": "Miller",
+    "first": "Noah"
+   },
+   "list": "DOM",
+   "photo": null,
+   "status": "active"
+  },
+  "DOM-171": {
+   "name": {
+    "last": "Uebelhor",
+    "first": "Mick"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-171.webp",
+    "v": "02978871",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "MiLB.com (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "DOM-172": {
+   "name": {
+    "last": "Carver",
+    "first": "John"
+   },
+   "list": "DOM",
+   "photo": {
+    "src": "players/DOM-172.webp",
+    "v": "94a3d29e",
+    "w": 600,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "MiLB.com (cropped 600x600)"
+   },
+   "status": "active"
+  },
+  "DR-2": {
+   "name": {
+    "last": "Aguilar",
+    "first": "Anderson"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "DR-3": {
+   "name": {
+    "last": "Alcantara",
+    "first": "Angel"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2007-01-18",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-4": {
+   "name": {
+    "last": "Altagracia",
+    "first": "Frederi"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2008-02-29",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-5": {
+   "name": {
+    "last": "Amador",
+    "first": "Luis"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2007-09-15",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-6": {
+   "name": {
+    "last": "Arias",
+    "first": "Randy"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2008-10-14",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-7": {
+   "name": {
+    "last": "Bautista",
+    "first": "Jairo"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2008-07-03",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-8": {
+   "name": {
+    "last": "Bens",
+    "first": "Lemin"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2007-09-22",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-9": {
+   "name": {
+    "last": "Brito",
+    "first": "Angel"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2008-02-27",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-10": {
+   "name": {
+    "last": "Cabreja",
+    "first": "Ronieel"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2008-06-19",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-11": {
+   "name": {
+    "last": "Carrera",
+    "first": "Dennisom"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2006-10-14",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-12": {
+   "name": {
+    "last": "Carrizalez",
+    "first": "Jeans"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2008-10-21",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-13": {
+   "name": {
+    "last": "Castro",
+    "first": "Esteban"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2008-02-20",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-14": {
+   "name": {
+    "last": "Colina",
+    "first": "David"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2008-07-31",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-15": {
+   "name": {
+    "last": "Constanza",
+    "first": "Antony"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2008-08-21",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-16": {
+   "name": {
+    "last": "Dagnino",
+    "first": "Vismar"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2008-03-06",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-17": {
+   "name": {
+    "last": "Damian",
+    "first": "Omar"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2008-07-05",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-18": {
+   "name": {
+    "last": "De La Cruz",
+    "first": "Yensi"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2007-05-31",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-19": {
+   "name": {
+    "last": "De Lira",
+    "first": "Axel"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2007-03-30",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-20": {
+   "name": {
+    "last": "Delgado",
+    "first": "Antonio"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2007-06-13",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-21": {
+   "name": {
+    "last": "Feliz",
+    "first": "Imanol"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2008-10-17",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-22": {
+   "name": {
+    "last": "Fermin",
+    "first": "Albert"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2009-02-09",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-23": {
+   "name": {
+    "last": "Gantes",
+    "first": "Anthony"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2005-11-25",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-24": {
+   "name": {
+    "last": "Garcia",
+    "first": "Allen"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2006-04-07",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-25": {
+   "name": {
+    "last": "Garcia",
+    "first": "Ire"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2007-10-08",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-26": {
+   "name": {
+    "last": "Gonzalez",
+    "first": "Andy"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2008-09-18",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-27": {
+   "name": {
+    "last": "Gonzalez",
+    "first": "Rafael"
+   },
+   "list": "DR",
+   "photo": {
+    "src": "players/DR-27.webp",
+    "v": "6c99c0a9",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Gonzalez, Rafael.jpg"
+   },
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "DR-28": {
+   "name": {
+    "last": "Gonzalez",
+    "first": "Emilio"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2008-03-26",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-29": {
+   "name": {
+    "last": "Harvey",
+    "first": "Isaias"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2008-03-21",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-30": {
+   "name": {
+    "last": "Hernandez",
+    "first": "Robier"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2007-01-13",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-31": {
+   "name": {
+    "last": "Herrera",
+    "first": "Kelvin"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2007-12-19",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-32": {
+   "name": {
+    "last": "Huerta",
+    "first": "Alexander"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2009-02-11",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-33": {
+   "name": {
+    "last": "Jimenez",
+    "first": "Joel"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2007-11-10",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-34": {
+   "name": {
+    "last": "Jimenez",
+    "first": "Victor"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2007-04-19",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-35": {
+   "name": {
+    "last": "Lopez",
+    "first": "Dahel"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2006-10-20",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-36": {
+   "name": {
+    "last": "Lopez",
+    "first": "Eduardito"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "DR-37": {
+   "name": {
+    "last": "Lopez",
+    "first": "Adrianyer"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2008-06-11",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-38": {
+   "name": {
+    "last": "Manzueta",
+    "first": "Sami"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2008-08-21",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-39": {
+   "name": {
+    "last": "Marrero",
+    "first": "Deybi"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2006-09-12",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-40": {
+   "name": {
+    "last": "Martinez",
+    "first": "Juan"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "DR-41": {
+   "name": {
+    "last": "Martinez",
+    "first": "Pablo"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2008-01-18",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-42": {
+   "name": {
+    "last": "Martinez",
+    "first": "Santiago"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2007-10-09",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-43": {
+   "name": {
+    "last": "Matos",
+    "first": "Edwilmin"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2008-01-19",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-44": {
+   "name": {
+    "last": "Mendez",
+    "first": "Brayan"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2008-11-10",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-45": {
+   "name": {
+    "last": "Mendez",
+    "first": "Sebastian"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2008-09-11",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-46": {
+   "name": {
+    "last": "Millan",
+    "first": "Anthony"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2008-05-13",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-47": {
+   "name": {
+    "last": "Morales",
+    "first": "Antonio"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2007-02-15",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-48": {
+   "name": {
+    "last": "Mota",
+    "first": "Eric"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2007-12-06",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-49": {
+   "name": {
+    "last": "Murrieta",
+    "first": "Leonel"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2007-05-09",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-50": {
+   "name": {
+    "last": "Núñez",
+    "first": "Ender"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2005-09-09",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-51": {
+   "name": {
+    "last": "Ogando",
+    "first": "Joan"
+   },
+   "list": "DR",
+   "photo": {
+    "src": "players/DOM-92.webp",
+    "v": "16181a1a",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Ogando, Joan.jpg",
+    "note": "Same player as DOM-92 (listed on both the Domestic and Dominican lists)"
+   },
+   "status": "active",
+   "dob": "2004-05-23",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-52": {
+   "name": {
+    "last": "Pastrano",
+    "first": "Cesar"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2008-06-15",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-53": {
+   "name": {
+    "last": "Payro",
+    "first": "Emilio"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2008-01-02",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-54": {
+   "name": {
+    "last": "Peralta",
+    "first": "Angel"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2006-10-23",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-55": {
+   "name": {
+    "last": "Perez",
+    "first": "William"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2007-01-08",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-56": {
+   "name": {
+    "last": "Ramirez",
+    "first": "Juan"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2007-04-24",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-57": {
+   "name": {
+    "last": "Ramos",
+    "first": "Freddy"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2008-05-20",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-58": {
+   "name": {
+    "last": "Reyes",
+    "first": "Miguel"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2007-08-01",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-59": {
+   "name": {
+    "last": "Rivas",
+    "first": "Oscar"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2007-10-23",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-60": {
+   "name": {
+    "last": "Rivero",
+    "first": "Gabriel"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "former",
+   "rosterList": "NLO",
+   "statusChanged": "2026-10-23"
+  },
+  "DR-61": {
+   "name": {
+    "last": "Romero",
+    "first": "Esteban"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2006-12-01",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-62": {
+   "name": {
+    "last": "Ron",
+    "first": "Cristian"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2007-03-14",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-63": {
+   "name": {
+    "last": "Sanchez",
+    "first": "Fraimy"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2008-10-09",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-64": {
+   "name": {
+    "last": "Sandoval",
+    "first": "Carlos"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2009-03-21",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-65": {
+   "name": {
+    "last": "Santana",
+    "first": "Jorman"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2006-11-17",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-66": {
+   "name": {
+    "last": "Santana",
+    "first": "Kevin"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2007-01-18",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-67": {
+   "name": {
+    "last": "Saud",
+    "first": "Sebastian"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2007-04-21",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-68": {
+   "name": {
+    "last": "Silveira",
+    "first": "Yuaxander"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2008-01-14",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-69": {
+   "name": {
+    "last": "Silverio",
+    "first": "Franchely"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2006-11-19",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-70": {
+   "name": {
+    "last": "Sosa",
+    "first": "Jesus"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2007-10-26",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-71": {
+   "name": {
+    "last": "Sveyda",
+    "first": "Tomas"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2007-03-26",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-72": {
+   "name": {
+    "last": "Terán",
+    "first": "Jesús"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2009-02-04",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-73": {
+   "name": {
+    "last": "Valbrune",
+    "first": "Jack"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2008-03-01",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-74": {
+   "name": {
+    "last": "Valdivieso",
+    "first": "Samil"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2008-01-31",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-75": {
+   "name": {
+    "last": "Villanueva",
+    "first": "Maximiliano"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2008-05-15",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "DR-76": {
+   "name": {
+    "last": "Vizcaya",
+    "first": "Samuel"
+   },
+   "list": "DR",
+   "photo": null,
+   "status": "active",
+   "dob": "2006-12-26",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "NLO-2": {
+   "name": {
+    "last": "Adcock",
+    "first": "Brett"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-3": {
+   "name": {
+    "last": "Armenteros",
+    "first": "Rogelio"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-4": {
+   "name": {
+    "last": "Bailey",
+    "first": "Brandon"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-5": {
+   "name": {
+    "last": "Bello",
+    "first": "Daniel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-6": {
+   "name": {
+    "last": "Biagini",
+    "first": "Joe"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-7": {
+   "name": {
+    "last": "Billingsley",
+    "first": "Jacob"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-8": {
+   "name": {
+    "last": "Campos",
+    "first": "Oscar"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-9": {
+   "name": {
+    "last": "Canelon",
+    "first": "Carlos"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-10": {
+   "name": {
+    "last": "Castillo",
+    "first": "Abraham"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-11": {
+   "name": {
+    "last": "Castro",
+    "first": "Ruben"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-12": {
+   "name": {
+    "last": "Dawson",
+    "first": "Trey"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-13": {
+   "name": {
+    "last": "De Paula",
+    "first": "Luis"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-14": {
+   "name": {
+    "last": "Deetz",
+    "first": "Dean"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-15": {
+   "name": {
+    "last": "DeJong",
+    "first": "Chase"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-16": {
+   "name": {
+    "last": "Dennis",
+    "first": "Austin"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-17": {
+   "name": {
+    "last": "Duarte",
+    "first": "Osvaldo"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-18": {
+   "name": {
+    "last": "Ferguson",
+    "first": "Drew"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-19": {
+   "name": {
+    "last": "Ferrell",
+    "first": "Justin"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-20": {
+   "name": {
+    "last": "Figueroa",
+    "first": "Miguel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-21": {
+   "name": {
+    "last": "Gonzalez",
+    "first": "Joey"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-22": {
+   "name": {
+    "last": "Grullon",
+    "first": "Sebastian"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-23": {
+   "name": {
+    "last": "Marte",
+    "first": "Junior"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-24": {
+   "name": {
+    "last": "Martinez",
+    "first": "Bryan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-25": {
+   "name": {
+    "last": "Mayfield",
+    "first": "Jack"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-26": {
+   "name": {
+    "last": "McCurry",
+    "first": "Brendan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-27": {
+   "name": {
+    "last": "Medina",
+    "first": "Fredy"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-28": {
+   "name": {
+    "last": "Nix",
+    "first": "James"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-29": {
+   "name": {
+    "last": "Padilla",
+    "first": "Miguel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-30": {
+   "name": {
+    "last": "Pavlica",
+    "first": "Preston"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-31": {
+   "name": {
+    "last": "Ramirez",
+    "first": "Juan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-32": {
+   "name": {
+    "last": "Reese",
+    "first": "EP"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-33": {
+   "name": {
+    "last": "Ritchie",
+    "first": "Jaime"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-34": {
+   "name": {
+    "last": "Robinson",
+    "first": "Chuckie"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-35": {
+   "name": {
+    "last": "Rodney",
+    "first": "Fernando"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-36": {
+   "name": {
+    "last": "Saldana",
+    "first": "Abdiel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-37": {
+   "name": {
+    "last": "Sanabria",
+    "first": "Carlos"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-38": {
+   "name": {
+    "last": "Sandoval",
+    "first": "Edgardo"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-39": {
+   "name": {
+    "last": "Sneed",
+    "first": "Cy"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-40": {
+   "name": {
+    "last": "Tanielu",
+    "first": "Nick"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-41": {
+   "name": {
+    "last": "Valdez",
+    "first": "Gabriel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-42": {
+   "name": {
+    "last": "Castellanos",
+    "first": "Humberto"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-43": {
+   "name": {
+    "last": "Perez",
+    "first": "Cionel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-44": {
+   "name": {
+    "last": "Sierra",
+    "first": "Anibal"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-45": {
+   "name": {
+    "last": "Wrenn",
+    "first": "Stephen"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-46": {
+   "name": {
+    "last": "Cishek",
+    "first": "Steven"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-47": {
+   "name": {
+    "last": "Souza",
+    "first": "Steven"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-48": {
+   "name": {
+    "last": "Chavez",
+    "first": "Lupe"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-49": {
+   "name": {
+    "last": "Paulino",
+    "first": "Juanrael"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-50": {
+   "name": {
+    "last": "Quintana",
+    "first": "Lorenzo"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-51": {
+   "name": {
+    "last": "Castillo",
+    "first": "Gerry"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-52": {
+   "name": {
+    "last": "Jose",
+    "first": "Jairo"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-53": {
+   "name": {
+    "last": "Ortiz",
+    "first": "Ayendy"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-54": {
+   "name": {
+    "last": "Velazquez",
+    "first": "Hector"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-55": {
+   "name": {
+    "last": "Adams",
+    "first": "Jacob"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-56": {
+   "name": {
+    "last": "Biermann",
+    "first": "Zachary"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-57": {
+   "name": {
+    "last": "Krabbe",
+    "first": "Tyler"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-58": {
+   "name": {
+    "last": "Machado",
+    "first": "Carlos"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-59": {
+   "name": {
+    "last": "De La Cruz",
+    "first": "Bryan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-60": {
+   "name": {
+    "last": "Cortabarria",
+    "first": "Yimmi"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-61": {
+   "name": {
+    "last": "Monzon",
+    "first": "Andres"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-62": {
+   "name": {
+    "last": "Pinto",
+    "first": "Franklin"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-63": {
+   "name": {
+    "last": "Uceta",
+    "first": "Raider"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-64": {
+   "name": {
+    "last": "Straw",
+    "first": "Myles"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-65": {
+   "name": {
+    "last": "Hartman",
+    "first": "Ryan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-66": {
+   "name": {
+    "last": "Rodriguez",
+    "first": "Nivaldo"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-67": {
+   "name": {
+    "last": "Garza",
+    "first": "Ralph"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-68": {
+   "name": {
+    "last": "Chavez",
+    "first": "Jervic"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-69": {
+   "name": {
+    "last": "Drennan",
+    "first": "Whit"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-70": {
+   "name": {
+    "last": "Martes",
+    "first": "Francis"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-71": {
+   "name": {
+    "last": "Procopio",
+    "first": "Daniel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-72": {
+   "name": {
+    "last": "Rosado",
+    "first": "Cesar"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-73": {
+   "name": {
+    "last": "Solano",
+    "first": "Bryan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-74": {
+   "name": {
+    "last": "Eades",
+    "first": "Ryan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-75": {
+   "name": {
+    "last": "LaRue",
+    "first": "Carson"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-76": {
+   "name": {
+    "last": "Toro-Hernandez",
+    "first": "Abraham"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-77": {
+   "name": {
+    "last": "Emanuel",
+    "first": "Kent"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-78": {
+   "name": {
+    "last": "Garcia",
+    "first": "Robel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-79": {
+   "name": {
+    "last": "Garcia",
+    "first": "Yimi"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-80": {
+   "name": {
+    "last": "Gonzalez",
+    "first": "Marwin"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-81": {
+   "name": {
+    "last": "Butera",
+    "first": "Drew"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-82": {
+   "name": {
+    "last": "Hinojosa",
+    "first": "CJ"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-83": {
+   "name": {
+    "last": "Kelly",
+    "first": "Michael"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-84": {
+   "name": {
+    "last": "Rodriguez",
+    "first": "Leovanny"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-85": {
+   "name": {
+    "last": "Wilson",
+    "first": "Jacob"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-86": {
+   "name": {
+    "last": "Stubbs",
+    "first": "Garrett"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-87": {
+   "name": {
+    "last": "Sierra",
+    "first": "Miguelangel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-88": {
+   "name": {
+    "last": "Dawson",
+    "first": "Ronnie"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-89": {
+   "name": {
+    "last": "Daniels",
+    "first": "Brett"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-90": {
+   "name": {
+    "last": "Ramirez",
+    "first": "Manny"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-91": {
+   "name": {
+    "last": "Ferrell",
+    "first": "Riley"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-92": {
+   "name": {
+    "last": "Rivera",
+    "first": "Yadiel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-93": {
+   "name": {
+    "last": "Tejada",
+    "first": "Felipe"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-94": {
+   "name": {
+    "last": "Taylor",
+    "first": "Chandler"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-95": {
+   "name": {
+    "last": "Meszaros",
+    "first": "Janos"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-96": {
+   "name": {
+    "last": "Gonzalez",
+    "first": "Flaer"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-97": {
+   "name": {
+    "last": "Zimmermann",
+    "first": "Peter"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-98": {
+   "name": {
+    "last": "Wielansky",
+    "first": "Michael"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-99": {
+   "name": {
+    "last": "Shaver",
+    "first": "Colton"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-100": {
+   "name": {
+    "last": "Scheetz",
+    "first": "Kristopher"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-101": {
+   "name": {
+    "last": "Rodriguez",
+    "first": "Ramiro"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-102": {
+   "name": {
+    "last": "Rodriguez",
+    "first": "Elian"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-103": {
+   "name": {
+    "last": "Perry",
+    "first": "Nathan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-104": {
+   "name": {
+    "last": "Serrano",
+    "first": "Kyle"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-105": {
+   "name": {
+    "last": "Morgan",
+    "first": "Adam"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-106": {
+   "name": {
+    "last": "Mendoza",
+    "first": "Jose"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-107": {
+   "name": {
+    "last": "Mendoza",
+    "first": "Sean"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-108": {
+   "name": {
+    "last": "Liranzo",
+    "first": "Jesus"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-109": {
+   "name": {
+    "last": "Holderbach",
+    "first": "Alexander"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-110": {
+   "name": {
+    "last": "Gonzalez",
+    "first": "Norel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-111": {
+   "name": {
+    "last": "Gayle",
+    "first": "Garrett"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-112": {
+   "name": {
+    "last": "Freure",
+    "first": "R.J."
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-113": {
+   "name": {
+    "last": "Benedetti",
+    "first": "Carmen"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-114": {
+   "name": {
+    "last": "Lawson",
+    "first": "Brandon"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-115": {
+   "name": {
+    "last": "Papierski",
+    "first": "Michael"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-116": {
+   "name": {
+    "last": "Pereira",
+    "first": "Jherson"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-117": {
+   "name": {
+    "last": "Ceuta",
+    "first": "Yorbin"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-118": {
+   "name": {
+    "last": "Thomas",
+    "first": "Dillon"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-119": {
+   "name": {
+    "last": "Garcia",
+    "first": "Ruben"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-120": {
+   "name": {
+    "last": "Peck",
+    "first": "Hunter"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-121": {
+   "name": {
+    "last": "Cabral",
+    "first": "Riley"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-122": {
+   "name": {
+    "last": "Wenzel",
+    "first": "Palmer"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-123": {
+   "name": {
+    "last": "Eusebio",
+    "first": "Marcos"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-124": {
+   "name": {
+    "last": "Barreto",
+    "first": "Franklin"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-125": {
+   "name": {
+    "last": "Casey",
+    "first": "Chandler"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-126": {
+   "name": {
+    "last": "Cody",
+    "first": "Danny"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-127": {
+   "name": {
+    "last": "Cooper",
+    "first": "Everette"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-128": {
+   "name": {
+    "last": "Gruller",
+    "first": "Kyle"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-129": {
+   "name": {
+    "last": "Hiraldo",
+    "first": "Carlos"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-130": {
+   "name": {
+    "last": "Holcomb",
+    "first": "Kevin"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-131": {
+   "name": {
+    "last": "Lee",
+    "first": "A.J."
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-132": {
+   "name": {
+    "last": "Mascai",
+    "first": "Victor"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-133": {
+   "name": {
+    "last": "Moclair",
+    "first": "Mark"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-134": {
+   "name": {
+    "last": "Orr",
+    "first": "Cody"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-135": {
+   "name": {
+    "last": "Payano",
+    "first": "Josue"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-136": {
+   "name": {
+    "last": "Ramirez",
+    "first": "Yeuris"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-137": {
+   "name": {
+    "last": "Rivas",
+    "first": "Rainier"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-138": {
+   "name": {
+    "last": "Urdaneta",
+    "first": "Ronaldo"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-139": {
+   "name": {
+    "last": "Hallmark",
+    "first": "Jaxon"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-140": {
+   "name": {
+    "last": "Reina",
+    "first": "Fabricio"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-141": {
+   "name": {
+    "last": "Rosscup",
+    "first": "Zac"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-142": {
+   "name": {
+    "last": "Abreu",
+    "first": "Wilyer"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-143": {
+   "name": {
+    "last": "McDermott",
+    "first": "Chayce"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-144": {
+   "name": {
+    "last": "Siri",
+    "first": "Jose"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-145": {
+   "name": {
+    "last": "Valdez",
+    "first": "Enmanuel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-146": {
+   "name": {
+    "last": "Brinson",
+    "first": "Lewis"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-147": {
+   "name": {
+    "last": "Jones",
+    "first": "Taylor"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-148": {
+   "name": {
+    "last": "De Goti",
+    "first": "Alex"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-149": {
+   "name": {
+    "last": "Donato",
+    "first": "Chad"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-150": {
+   "name": {
+    "last": "Hernandez",
+    "first": "Nick"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-151": {
+   "name": {
+    "last": "Manea",
+    "first": "Scott"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-152": {
+   "name": {
+    "last": "McKee",
+    "first": "Colin"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-153": {
+   "name": {
+    "last": "Olczak",
+    "first": "Jon"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-154": {
+   "name": {
+    "last": "Scrubb",
+    "first": "Andre"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-155": {
+   "name": {
+    "last": "Bravo",
+    "first": "Jose"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-156": {
+   "name": {
+    "last": "Garcia",
+    "first": "Freylin"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-157": {
+   "name": {
+    "last": "Mejias",
+    "first": "Christian"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-159": {
+   "name": {
+    "last": "Ceballos",
+    "first": "Yeremi"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-160": {
+   "name": {
+    "last": "Bermudez",
+    "first": "Jonathan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-161": {
+   "name": {
+    "last": "Goodrum",
+    "first": "Niko"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-162": {
+   "name": {
+    "last": "Solomon",
+    "first": "Peter"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-163": {
+   "name": {
+    "last": "Castillo",
+    "first": "Yoan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-164": {
+   "name": {
+    "last": "De Los Santos",
+    "first": "Juan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-165": {
+   "name": {
+    "last": "De Pena",
+    "first": "Freylin"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-166": {
+   "name": {
+    "last": "Leon",
+    "first": "Ricardo"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-167": {
+   "name": {
+    "last": "Ramirez",
+    "first": "Tomas"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-169": {
+   "name": {
+    "last": "Perez",
+    "first": "Chanderson"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-170": {
+   "name": {
+    "last": "Torres",
+    "first": "Nomar"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-171": {
+   "name": {
+    "last": "Diaz",
+    "first": "Omar"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-172": {
+   "name": {
+    "last": "Giron",
+    "first": "Adonis"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-173": {
+   "name": {
+    "last": "Jordan",
+    "first": "Dexter"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-174": {
+   "name": {
+    "last": "Pacheco",
+    "first": "Daniel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-175": {
+   "name": {
+    "last": "Schroeder",
+    "first": "Jayson"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-176": {
+   "name": {
+    "last": "Martinez",
+    "first": "Yohander"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-177": {
+   "name": {
+    "last": "Henderson",
+    "first": "Layne"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-178": {
+   "name": {
+    "last": "Jaquez",
+    "first": "Ernesto"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-179": {
+   "name": {
+    "last": "Alvarez",
+    "first": "Jose"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-180": {
+   "name": {
+    "last": "Riggs",
+    "first": "Nolan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-181": {
+   "name": {
+    "last": "Villega",
+    "first": "Elvin"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-182": {
+   "name": {
+    "last": "Palmer",
+    "first": "Alex"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-183": {
+   "name": {
+    "last": "Rivera",
+    "first": "Jose"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-184": {
+   "name": {
+    "last": "Guerrero",
+    "first": "Geremy"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-185": {
+   "name": {
+    "last": "DeJuneas",
+    "first": "Tommy"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-186": {
+   "name": {
+    "last": "Bolivar",
+    "first": "Jose"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-187": {
+   "name": {
+    "last": "Collado",
+    "first": "Willy"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-188": {
+   "name": {
+    "last": "Conine",
+    "first": "Brett"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-189": {
+   "name": {
+    "last": "Deason",
+    "first": "Cody"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-190": {
+   "name": {
+    "last": "Torres",
+    "first": "Jojanse"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-191": {
+   "name": {
+    "last": "Jimenez",
+    "first": "Alfredi"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-192": {
+   "name": {
+    "last": "Tokar",
+    "first": "Heitor"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-193": {
+   "name": {
+    "last": "Barry",
+    "first": "Shea"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-194": {
+   "name": {
+    "last": "Horrell",
+    "first": "Michael"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-195": {
+   "name": {
+    "last": "Dickey",
+    "first": "Kevin"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-196": {
+   "name": {
+    "last": "Sammons",
+    "first": "Bryan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-197": {
+   "name": {
+    "last": "Guerrero",
+    "first": "Luis"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-198": {
+   "name": {
+    "last": "Arcila",
+    "first": "Carlos"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-199": {
+   "name": {
+    "last": "Andujar",
+    "first": "Jose"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-200": {
+   "name": {
+    "last": "Figuereo",
+    "first": "Johangel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-201": {
+   "name": {
+    "last": "Ramirez",
+    "first": "Johangel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-202": {
+   "name": {
+    "last": "Ferro",
+    "first": "Josh"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-203": {
+   "name": {
+    "last": "Santana",
+    "first": "Luis"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-204": {
+   "name": {
+    "last": "Coats",
+    "first": "Jacob"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-205": {
+   "name": {
+    "last": "Salgado",
+    "first": "Bryant"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-206": {
+   "name": {
+    "last": "Conn",
+    "first": "Devin"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-207": {
+   "name": {
+    "last": "Hunt",
+    "first": "Marshall"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-208": {
+   "name": {
+    "last": "Betances",
+    "first": "Jose"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-209": {
+   "name": {
+    "last": "Davis",
+    "first": "Austin"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-210": {
+   "name": {
+    "last": "Garcia",
+    "first": "Bryan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-211": {
+   "name": {
+    "last": "Schreiber",
+    "first": "Scott"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-212": {
+   "name": {
+    "last": "Lopez",
+    "first": "Jairo"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-213": {
+   "name": {
+    "last": "McKenna",
+    "first": "Alex"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-214": {
+   "name": {
+    "last": "Carrillo",
+    "first": "Yefri"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-215": {
+   "name": {
+    "last": "Perez",
+    "first": "Frank"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-216": {
+   "name": {
+    "last": "Lee",
+    "first": "Korey"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-217": {
+   "name": {
+    "last": "McGowan",
+    "first": "Garrett"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-218": {
+   "name": {
+    "last": "Perez",
+    "first": "Bryan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-219": {
+   "name": {
+    "last": "Matthews",
+    "first": "Zack"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-220": {
+   "name": {
+    "last": "Buttrey",
+    "first": "Ty"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-221": {
+   "name": {
+    "last": "Clifford",
+    "first": "Ryan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-222": {
+   "name": {
+    "last": "Gilbert",
+    "first": "Drew"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-223": {
+   "name": {
+    "last": "Nova",
+    "first": "Freudis"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-224": {
+   "name": {
+    "last": "Perez",
+    "first": "Joe"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-225": {
+   "name": {
+    "last": "Taylor",
+    "first": "Blake"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-226": {
+   "name": {
+    "last": "Silvera",
+    "first": "Fernando"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-227": {
+   "name": {
+    "last": "Barefoot",
+    "first": "Matthew"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-228": {
+   "name": {
+    "last": "McGowin",
+    "first": "Kyle"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-229": {
+   "name": {
+    "last": "Fernandez",
+    "first": "Jesus"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-230": {
+   "name": {
+    "last": "Pérez",
+    "first": "Michael"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-231": {
+   "name": {
+    "last": "Vasquez",
+    "first": "Euris"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-232": {
+   "name": {
+    "last": "Allgeyer",
+    "first": "Nick"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-233": {
+   "name": {
+    "last": "Watkins",
+    "first": "Spenser"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-234": {
+   "name": {
+    "last": "Arias",
+    "first": "Jose"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-235": {
+   "name": {
+    "last": "Cabrera",
+    "first": "Geraldo"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-236": {
+   "name": {
+    "last": "Méndez",
+    "first": "Abel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-237": {
+   "name": {
+    "last": "Bannon",
+    "first": "Rylan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-238": {
+   "name": {
+    "last": "Cousins",
+    "first": "Jake"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-239": {
+   "name": {
+    "last": "Knapp",
+    "first": "Andrew"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-240": {
+   "name": {
+    "last": "Matijevic",
+    "first": "J.J."
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-241": {
+   "name": {
+    "last": "Record",
+    "first": "Joe"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-242": {
+   "name": {
+    "last": "Ruppenthal",
+    "first": "Matthew"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-243": {
+   "name": {
+    "last": "Aviles",
+    "first": "Luis"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-244": {
+   "name": {
+    "last": "Macuare",
+    "first": "Angel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-245": {
+   "name": {
+    "last": "Taveras",
+    "first": "Diosmerky"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-246": {
+   "name": {
+    "last": "Wolforth",
+    "first": "Garrett"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-247": {
+   "name": {
+    "last": "Lopez",
+    "first": "Juan Pablo"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-248": {
+   "name": {
+    "last": "Garcia",
+    "first": "Ronny"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-249": {
+   "name": {
+    "last": "Roberts",
+    "first": "Max"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-250": {
+   "name": {
+    "last": "Garcia",
+    "first": "Heribert"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-251": {
+   "name": {
+    "last": "Bojorquez",
+    "first": "Gerardo"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-252": {
+   "name": {
+    "last": "Madris",
+    "first": "Bligh"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-253": {
+   "name": {
+    "last": "Brown",
+    "first": "Ty"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-254": {
+   "name": {
+    "last": "Castro",
+    "first": "Kervin"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-255": {
+   "name": {
+    "last": "Costes",
+    "first": "Marty"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-256": {
+   "name": {
+    "last": "Mateo",
+    "first": "Carlos"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-257": {
+   "name": {
+    "last": "Familia",
+    "first": "Daniel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-258": {
+   "name": {
+    "last": "Jorge",
+    "first": "Roger"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-259": {
+   "name": {
+    "last": "Martinez",
+    "first": "Angelo"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-260": {
+   "name": {
+    "last": "Mezquita",
+    "first": "Cristofer"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-261": {
+   "name": {
+    "last": "Vega",
+    "first": "Luis"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-262": {
+   "name": {
+    "last": "Paredes",
+    "first": "Enoli"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-263": {
+   "name": {
+    "last": "Espinosa",
+    "first": "Carlos"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-264": {
+   "name": {
+    "last": "Marquez",
+    "first": "Brailyn"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-265": {
+   "name": {
+    "last": "Balogh",
+    "first": "Ricardo"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-266": {
+   "name": {
+    "last": "Borden",
+    "first": "Tim"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-267": {
+   "name": {
+    "last": "Del Rosario",
+    "first": "Richel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-268": {
+   "name": {
+    "last": "Endersby",
+    "first": "Jimmy"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-269": {
+   "name": {
+    "last": "Gastón",
+    "first": "Sandro"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-270": {
+   "name": {
+    "last": "Guilamo",
+    "first": "Freddy"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-271": {
+   "name": {
+    "last": "Hansen",
+    "first": "Austin"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-272": {
+   "name": {
+    "last": "Hurtado",
+    "first": "Carlos"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-273": {
+   "name": {
+    "last": "Lorenzo",
+    "first": "Dauri"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-274": {
+   "name": {
+    "last": "Molina",
+    "first": "Leosdany"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-275": {
+   "name": {
+    "last": "Morales",
+    "first": "Christopher"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-276": {
+   "name": {
+    "last": "Plumlee",
+    "first": "Peyton"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-277": {
+   "name": {
+    "last": "Sandle",
+    "first": "Michael"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-278": {
+   "name": {
+    "last": "Sprinkle",
+    "first": "Jonathan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-279": {
+   "name": {
+    "last": "Temple",
+    "first": "Austin"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-280": {
+   "name": {
+    "last": "West",
+    "first": "Derek"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-281": {
+   "name": {
+    "last": "Williams",
+    "first": "Justin"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-282": {
+   "name": {
+    "last": "Adolph",
+    "first": "Ross"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-283": {
+   "name": {
+    "last": "Garcia",
+    "first": "Elvis"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-284": {
+   "name": {
+    "last": "Kilkenny",
+    "first": "Mitchell"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-285": {
+   "name": {
+    "last": "Miley",
+    "first": "Deylen"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-286": {
+   "name": {
+    "last": "Nodal",
+    "first": "Jose"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-287": {
+   "name": {
+    "last": "Machandy",
+    "first": "Roilan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-288": {
+   "name": {
+    "last": "Dirden",
+    "first": "Justin"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-289": {
+   "name": {
+    "last": "Washington",
+    "first": "Mark"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-290": {
+   "name": {
+    "last": "Bellozo",
+    "first": "Valente"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-291": {
+   "name": {
+    "last": "Teter",
+    "first": "Jacob"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-292": {
+   "name": {
+    "last": "Perez",
+    "first": "Luis"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-293": {
+   "name": {
+    "last": "Brantley",
+    "first": "Michael"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-294": {
+   "name": {
+    "last": "Gage",
+    "first": "Mattew"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-295": {
+   "name": {
+    "last": "Maldonado",
+    "first": "Martin"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-296": {
+   "name": {
+    "last": "Maton",
+    "first": "Phillip"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-297": {
+   "name": {
+    "last": "Neris",
+    "first": "Hector"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-298": {
+   "name": {
+    "last": "Stanek",
+    "first": "Ryne"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-299": {
+   "name": {
+    "last": "Stevens",
+    "first": "Chad"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-300": {
+   "name": {
+    "last": "Stubbs",
+    "first": "CJ"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-301": {
+   "name": {
+    "last": "Arias",
+    "first": "Bryan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-302": {
+   "name": {
+    "last": "Betancourt",
+    "first": "Carlos"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-303": {
+   "name": {
+    "last": "Correa",
+    "first": "JC"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-304": {
+   "name": {
+    "last": "De Paula",
+    "first": "Brayan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-305": {
+   "name": {
+    "last": "Strotman",
+    "first": "Drew"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-306": {
+   "name": {
+    "last": "Berryhill",
+    "first": "Luke"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-307": {
+   "name": {
+    "last": "Chaidez",
+    "first": "Adrian"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-308": {
+   "name": {
+    "last": "Kato",
+    "first": "Kobe"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-309": {
+   "name": {
+    "last": "Abreu",
+    "first": "Jose"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-310": {
+   "name": {
+    "last": "Bielak",
+    "first": "Brandon"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "active",
+   "rosterList": "DOM",
+   "statusChanged": "2026-10-23",
+   "dob": "1996-04-02",
+   "dobSource": "Roster CSV 2026-10-23"
+  },
+  "NLO-311": {
+   "name": {
+    "last": "Julks",
+    "first": "Corey"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-312": {
+   "name": {
+    "last": "Kuhnel",
+    "first": "Joel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-313": {
+   "name": {
+    "last": "Hensley",
+    "first": "David"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-314": {
+   "name": {
+    "last": "Bloss",
+    "first": "Jake"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-315": {
+   "name": {
+    "last": "Loperfido",
+    "first": "Joey"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "active",
+   "rosterList": "40MAN",
+   "statusChanged": "2026-10-23"
+  },
+  "NLO-316": {
+   "name": {
+    "last": "Wagner",
+    "first": "Will"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-317": {
+   "name": {
+    "last": "Austin",
+    "first": "Kelly"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-318": {
+   "name": {
+    "last": "Brewer",
+    "first": "Jordan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-319": {
+   "name": {
+    "last": "Colón",
+    "first": "Luis"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-320": {
+   "name": {
+    "last": "Coronel",
+    "first": "Enrique"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-321": {
+   "name": {
+    "last": "Diaz",
+    "first": "Victor"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-322": {
+   "name": {
+    "last": "Ford",
+    "first": "Kasey"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-323": {
+   "name": {
+    "last": "Nieves",
+    "first": "Hector"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-324": {
+   "name": {
+    "last": "Ramírez",
+    "first": "Rafael"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-325": {
+   "name": {
+    "last": "Santander",
+    "first": "Juan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-326": {
+   "name": {
+    "last": "Carrasco",
+    "first": "Deury"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-327": {
+   "name": {
+    "last": "Foggo",
+    "first": "Ian"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-328": {
+   "name": {
+    "last": "Casserilla",
+    "first": "Xavier"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-329": {
+   "name": {
+    "last": "Toro",
+    "first": "Ricardo"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-330": {
+   "name": {
+    "last": "Loftin",
+    "first": "Jackson"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-331": {
+   "name": {
+    "last": "Lauer",
+    "first": "Eric"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-332": {
+   "name": {
+    "last": "Machado",
+    "first": "Dixon"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-333": {
+   "name": {
+    "last": "Gonzalez",
+    "first": "Richi"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-334": {
+   "name": {
+    "last": "Rodriguez",
+    "first": "Nerio"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-335": {
+   "name": {
+    "last": "Aranda",
+    "first": "Angel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-336": {
+   "name": {
+    "last": "De La Cruz",
+    "first": "Cristian"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-337": {
+   "name": {
+    "last": "Diaz",
+    "first": "Jhon"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-338": {
+   "name": {
+    "last": "Gomez",
+    "first": "Miguel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-339": {
+   "name": {
+    "last": "Marcelino",
+    "first": "Marcos"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-340": {
+   "name": {
+    "last": "Martinez",
+    "first": "Jeremy"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-341": {
+   "name": {
+    "last": "Mujica",
+    "first": "Jesus"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-342": {
+   "name": {
+    "last": "Almanzar",
+    "first": "Yariel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-343": {
+   "name": {
+    "last": "Marte",
+    "first": "Angel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-344": {
+   "name": {
+    "last": "Tejeda",
+    "first": "Jose"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-345": {
+   "name": {
+    "last": "Rodríguez",
+    "first": "Luis"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-346": {
+   "name": {
+    "last": "Cobos",
+    "first": "Franny"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-347": {
+   "name": {
+    "last": "Espinosa",
+    "first": "Rolando"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-348": {
+   "name": {
+    "last": "Gittens",
+    "first": "Chris"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-349": {
+   "name": {
+    "last": "Greene",
+    "first": "Conner"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-350": {
+   "name": {
+    "last": "Henderson",
+    "first": "Layne"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-351": {
+   "name": {
+    "last": "Molero",
+    "first": "Jeremy"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-352": {
+   "name": {
+    "last": "Mushinski",
+    "first": "Parker"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-353": {
+   "name": {
+    "last": "Robaina",
+    "first": "Julio"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-354": {
+   "name": {
+    "last": "Subero",
+    "first": "Danny"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-355": {
+   "name": {
+    "last": "Suero",
+    "first": "Wander"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-356": {
+   "name": {
+    "last": "Arocho",
+    "first": "Jeremy"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-357": {
+   "name": {
+    "last": "Backstrom",
+    "first": "Mahki"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-358": {
+   "name": {
+    "last": "Arcila",
+    "first": "Carlos"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-359": {
+   "name": {
+    "last": "Biebieca",
+    "first": "Henry"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-360": {
+   "name": {
+    "last": "Castellar",
+    "first": "Jonaiker"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-361": {
+   "name": {
+    "last": "Colón",
+    "first": "Andy"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-362": {
+   "name": {
+    "last": "Cuevas",
+    "first": "Hector"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-363": {
+   "name": {
+    "last": "De La Cruz",
+    "first": "Denfry"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-364": {
+   "name": {
+    "last": "De La Cruz",
+    "first": "Luis"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-365": {
+   "name": {
+    "last": "Guzman",
+    "first": "Danyuri"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-366": {
+   "name": {
+    "last": "Rojas",
+    "first": "Cesar"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-367": {
+   "name": {
+    "last": "Sanchez",
+    "first": "Anderson"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-368": {
+   "name": {
+    "last": "Sanchez",
+    "first": "Liz"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-369": {
+   "name": {
+    "last": "Presinal",
+    "first": "Cristopher"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-370": {
+   "name": {
+    "last": "Yan",
+    "first": "Frailin"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-371": {
+   "name": {
+    "last": "Valencia",
+    "first": "Josue"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-372": {
+   "name": {
+    "last": "Capellan",
+    "first": "Samuel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-373": {
+   "name": {
+    "last": "Liriano",
+    "first": "Eudy"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-374": {
+   "name": {
+    "last": "Martinez",
+    "first": "Yefri"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-375": {
+   "name": {
+    "last": "Peralta",
+    "first": "Jean"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-376": {
+   "name": {
+    "last": "Robledo",
+    "first": "Jose"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-377": {
+   "name": {
+    "last": "De Paula",
+    "first": "Axell"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-378": {
+   "name": {
+    "last": "Severino",
+    "first": "Wander"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-379": {
+   "name": {
+    "last": "Estrella",
+    "first": "Juan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-380": {
+   "name": {
+    "last": "Henriquez",
+    "first": "Marcos"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-381": {
+   "name": {
+    "last": "Sanchez",
+    "first": "Julio"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-382": {
+   "name": {
+    "last": "Mori",
+    "first": "Oswald"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-383": {
+   "name": {
+    "last": "Calderon",
+    "first": "Carlos"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-384": {
+   "name": {
+    "last": "Cavaco",
+    "first": "Keoni"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-385": {
+   "name": {
+    "last": "Colon",
+    "first": "Rabel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-386": {
+   "name": {
+    "last": "Daniels",
+    "first": "Zach"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-387": {
+   "name": {
+    "last": "Delabio",
+    "first": "Jacob"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-388": {
+   "name": {
+    "last": "Gomez",
+    "first": "Cesar"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-389": {
+   "name": {
+    "last": "Henley",
+    "first": "Blair"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-390": {
+   "name": {
+    "last": "Marquez",
+    "first": "Pedro"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-391": {
+   "name": {
+    "last": "Melendez",
+    "first": "Jaime"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-392": {
+   "name": {
+    "last": "Sanchez",
+    "first": "Yanquiel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-393": {
+   "name": {
+    "last": "Solis",
+    "first": "Jairo"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-394": {
+   "name": {
+    "last": "Victorino",
+    "first": "Luis"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-395": {
+   "name": {
+    "last": "Morton",
+    "first": "Korey"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-396": {
+   "name": {
+    "last": "Beeks",
+    "first": "Jalen"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-397": {
+   "name": {
+    "last": "Batista",
+    "first": "Edinson"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-398": {
+   "name": {
+    "last": "Montero",
+    "first": "Rafael"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-399": {
+   "name": {
+    "last": "Núñez",
+    "first": "Miguel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-400": {
+   "name": {
+    "last": "Castro",
+    "first": "Miguel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-401": {
+   "name": {
+    "last": "McDonald",
+    "first": "Cole"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-402": {
+   "name": {
+    "last": "Verlander",
+    "first": "Justin"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-403": {
+   "name": {
+    "last": "Jordan",
+    "first": "Rowdey"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-404": {
+   "name": {
+    "last": "Beltre",
+    "first": "Reimy"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-405": {
+   "name": {
+    "last": "Cerny",
+    "first": "Logan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-406": {
+   "name": {
+    "last": "Tamarez",
+    "first": "Misael"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-407": {
+   "name": {
+    "last": "Wrobleski",
+    "first": "Ryan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-408": {
+   "name": {
+    "last": "Fisher",
+    "first": "Cam"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-409": {
+   "name": {
+    "last": "Hamilton",
+    "first": "Quincy"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-410": {
+   "name": {
+    "last": "Deming",
+    "first": "Austin"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-411": {
+   "name": {
+    "last": "Gonzalez",
+    "first": "Jose"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-412": {
+   "name": {
+    "last": "Narvaez",
+    "first": "Omar"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-413": {
+   "name": {
+    "last": "Brown",
+    "first": "Aaron"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-414": {
+   "name": {
+    "last": "Gaither",
+    "first": "Ray"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-415": {
+   "name": {
+    "last": "Guillorme",
+    "first": "Luis"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-416": {
+   "name": {
+    "last": "Lavastida",
+    "first": "Bryan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-417": {
+   "name": {
+    "last": "Weiman",
+    "first": "Blake"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-418": {
+   "name": {
+    "last": "Johnson",
+    "first": "Ryan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-419": {
+   "name": {
+    "last": "Rodning",
+    "first": "Brody"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-420": {
+   "name": {
+    "last": "Willits",
+    "first": "Bryce"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-421": {
+   "name": {
+    "last": "Blomgren",
+    "first": "Jack"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-422": {
+   "name": {
+    "last": "Encarnacion",
+    "first": "Luis"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-423": {
+   "name": {
+    "last": "Gonzalez",
+    "first": "Cristian"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-424": {
+   "name": {
+    "last": "Linskey",
+    "first": "Matthew"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-425": {
+   "name": {
+    "last": "Swiney",
+    "first": "Nick"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-426": {
+   "name": {
+    "last": "Tucker",
+    "first": "Cody"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-427": {
+   "name": {
+    "last": "Ras",
+    "first": "Tyler"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-428": {
+   "name": {
+    "last": "Castro",
+    "first": "Luis"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-429": {
+   "name": {
+    "last": "Brown",
+    "first": "Cameron"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-430": {
+   "name": {
+    "last": "Robertson",
+    "first": "Nicholas"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-431": {
+   "name": {
+    "last": "Bastidas",
+    "first": "Jesus"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-432": {
+   "name": {
+    "last": "Jaworsky",
+    "first": "Chase"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-433": {
+   "name": {
+    "last": "Mikulski",
+    "first": "Matt"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-434": {
+   "name": {
+    "last": "Palmer",
+    "first": "Twine"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-435": {
+   "name": {
+    "last": "Valencia",
+    "first": "Esmil"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-436": {
+   "name": {
+    "last": "Otto",
+    "first": "Glenn"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-437": {
+   "name": {
+    "last": "Cova",
+    "first": "Dayerson"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-438": {
+   "name": {
+    "last": "Mejias",
+    "first": "Cristhopher"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-439": {
+   "name": {
+    "last": "Rosario",
+    "first": "Reidy"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-440": {
+   "name": {
+    "last": "De Los Santos",
+    "first": "Ronald"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-441": {
+   "name": {
+    "last": "Salazar",
+    "first": "Mario"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-442": {
+   "name": {
+    "last": "Brito",
+    "first": "Samuel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-443": {
+   "name": {
+    "last": "Movilio",
+    "first": "Miguel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-444": {
+   "name": {
+    "last": "Reyes",
+    "first": "Luis"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-445": {
+   "name": {
+    "last": "Morgado",
+    "first": "Leandro"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-446": {
+   "name": {
+    "last": "Gonzalez",
+    "first": "Cristofer"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-447": {
+   "name": {
+    "last": "Carrillo",
+    "first": "Oliver"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-448": {
+   "name": {
+    "last": "Travinski",
+    "first": "Hayden"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-449": {
+   "name": {
+    "last": "Brockhouse",
+    "first": "Walker"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-450": {
+   "name": {
+    "last": "Hurtubise",
+    "first": "Jacob"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-451": {
+   "name": {
+    "last": "Navarro",
+    "first": "Cristian"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-452": {
+   "name": {
+    "last": "Villalobos",
+    "first": "Dionel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-453": {
+   "name": {
+    "last": "Flores",
+    "first": "Miguel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-454": {
+   "name": {
+    "last": "Campos",
+    "first": "Diego"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-455": {
+   "name": {
+    "last": "Caldera",
+    "first": "Francisco"
+   },
+   "list": "NLO",
+   "photo": {
+    "src": "players/NLO-455.webp",
+    "v": "36eb5573",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Caldera, Francisco.jpg"
+   },
+   "status": "former"
+  },
+  "NLO-456": {
+   "name": {
+    "last": "Mendoza",
+    "first": "Manuel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-457": {
+   "name": {
+    "last": "Mota",
+    "first": "Eddy"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-458": {
+   "name": {
+    "last": "Puello",
+    "first": "Cliuver"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-459": {
+   "name": {
+    "last": "Ruiz",
+    "first": "Adrian"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-460": {
+   "name": {
+    "last": "Gonzalez",
+    "first": "Rafael"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-461": {
+   "name": {
+    "last": "Núñez",
+    "first": "Jesus"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-462": {
+   "name": {
+    "last": "Rodriguez",
+    "first": "Jhosue"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-463": {
+   "name": {
+    "last": "Peralta",
+    "first": "Engel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-464": {
+   "name": {
+    "last": "Barber",
+    "first": "Colin"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-465": {
+   "name": {
+    "last": "Boettcher",
+    "first": "Bryce"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-466": {
+   "name": {
+    "last": "Bowman",
+    "first": "Matthew"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-467": {
+   "name": {
+    "last": "Contreras",
+    "first": "Luis"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-468": {
+   "name": {
+    "last": "Corona",
+    "first": "Kenedy"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-469": {
+   "name": {
+    "last": "Hudson",
+    "first": "Joseph"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-470": {
+   "name": {
+    "last": "Ivey",
+    "first": "Tyler"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-471": {
+   "name": {
+    "last": "McCormick",
+    "first": "Chas"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-472": {
+   "name": {
+    "last": "Palma",
+    "first": "Miguel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-473": {
+   "name": {
+    "last": "Singleton",
+    "first": "Jonathan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-474": {
+   "name": {
+    "last": "Bido",
+    "first": "Anderson"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-475": {
+   "name": {
+    "last": "Halligan",
+    "first": "Patrick"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-476": {
+   "name": {
+    "last": "Martinez",
+    "first": "Orlando"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-477": {
+   "name": {
+    "last": "Pinto",
+    "first": "Jean"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-478": {
+   "name": {
+    "last": "Jones",
+    "first": "Gregory"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-479": {
+   "name": {
+    "last": "Rodriguez",
+    "first": "Mauricio"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-480": {
+   "name": {
+    "last": "Leon",
+    "first": "Pedro"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-481": {
+   "name": {
+    "last": "Scott",
+    "first": "Tayler"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-482": {
+   "name": {
+    "last": "Short",
+    "first": "Zack"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-483": {
+   "name": {
+    "last": "Singleton",
+    "first": "Jonathan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-484": {
+   "name": {
+    "last": "Weems",
+    "first": "Jordan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-485": {
+   "name": {
+    "last": "Amaya",
+    "first": "Jacob"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-486": {
+   "name": {
+    "last": "Bregman",
+    "first": "Alex"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-487": {
+   "name": {
+    "last": "Cabbage",
+    "first": "Trey"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-488": {
+   "name": {
+    "last": "Caratini",
+    "first": "Victor"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-489": {
+   "name": {
+    "last": "Mercedes",
+    "first": "Abel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-490": {
+   "name": {
+    "last": "Sánchez",
+    "first": "Brayan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-491": {
+   "name": {
+    "last": "Sanchez",
+    "first": "Julio"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-492": {
+   "name": {
+    "last": "González",
+    "first": "Edwin"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-493": {
+   "name": {
+    "last": "Maicán",
+    "first": "Mauricio"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-494": {
+   "name": {
+    "last": "Villarroel",
+    "first": "Jancel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-495": {
+   "name": {
+    "last": "Clarke",
+    "first": "Wes"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-496": {
+   "name": {
+    "last": "Vogel",
+    "first": "Drew"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-497": {
+   "name": {
+    "last": "Aybar",
+    "first": "Angel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-498": {
+   "name": {
+    "last": "Palacio",
+    "first": "Isaac"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-499": {
+   "name": {
+    "last": "Mendoza",
+    "first": "Franfelys"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-500": {
+   "name": {
+    "last": "Castellano",
+    "first": "Alejandro"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-501": {
+   "name": {
+    "last": "Brito",
+    "first": "Anderson"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-502": {
+   "name": {
+    "last": "Almonte",
+    "first": "Dawil"
+   },
+   "list": "NLO",
+   "photo": {
+    "src": "players/NLO-502.webp",
+    "v": "6679a107",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Almonte, Dawil.jpg"
+   },
+   "status": "former"
+  },
+  "NLO-503": {
+   "name": {
+    "last": "Diaz",
+    "first": "Norbis"
+   },
+   "list": "NLO",
+   "photo": {
+    "src": "players/NLO-503.webp",
+    "v": "b2f1c7d5",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Diaz, Norbis.jpg"
+   },
+   "status": "former"
+  },
+  "NLO-504": {
+   "name": {
+    "last": "Geraldo",
+    "first": "Jorge"
+   },
+   "list": "NLO",
+   "photo": {
+    "src": "players/NLO-504.webp",
+    "v": "a80ec3a9",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Geraldo, Jorge.jpg"
+   },
+   "status": "former"
+  },
+  "NLO-505": {
+   "name": {
+    "last": "Gil",
+    "first": "Franklin"
+   },
+   "list": "NLO",
+   "photo": {
+    "src": "players/NLO-505.webp",
+    "v": "1ffb2c99",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Gil, Franklin.jpg"
+   },
+   "status": "former"
+  },
+  "NLO-506": {
+   "name": {
+    "last": "Guilfoil",
+    "first": "Tyler"
+   },
+   "list": "NLO",
+   "photo": {
+    "src": "players/NLO-506.webp",
+    "v": "39e07275",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Guilfoil, Tyler.jpg"
+   },
+   "status": "former"
+  },
+  "NLO-507": {
+   "name": {
+    "last": "Kouba",
+    "first": "Rhett"
+   },
+   "list": "NLO",
+   "photo": {
+    "src": "players/NLO-507.webp",
+    "v": "ad6fcbbf",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Kouba, Rhett.jpg"
+   },
+   "status": "former"
+  },
+  "NLO-508": {
+   "name": {
+    "last": "Petschke",
+    "first": "Ben"
+   },
+   "list": "NLO",
+   "photo": {
+    "src": "players/NLO-508.webp",
+    "v": "9a6625eb",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Petschke, Ben.jpg"
+   },
+   "status": "former"
+  },
+  "NLO-509": {
+   "name": {
+    "last": "Rodriguez",
+    "first": "Luis"
+   },
+   "list": "NLO",
+   "photo": {
+    "src": "players/NLO-509.webp",
+    "v": "a94f6d72",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Rodriguez, Luis Angel.jpg"
+   },
+   "status": "former"
+  },
+  "NLO-510": {
+   "name": {
+    "last": "Smith",
+    "first": "Ryan"
+   },
+   "list": "NLO",
+   "photo": {
+    "src": "players/NLO-510.webp",
+    "v": "539d23e4",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Smith, Ryan.jpg"
+   },
+   "status": "former"
+  },
+  "NLO-511": {
+   "name": {
+    "last": "Sosa",
+    "first": "Andrews"
+   },
+   "list": "NLO",
+   "photo": {
+    "src": "players/NLO-511.webp",
+    "v": "256811e1",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Sosa, Andrews.jpg"
+   },
+   "status": "former"
+  },
+  "NLO-512": {
+   "name": {
+    "last": "Soto",
+    "first": "Juan"
+   },
+   "list": "NLO",
+   "photo": {
+    "src": "players/NLO-512.webp",
+    "v": "8d337d5b",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Soto, Juan.jpg"
+   },
+   "status": "former"
+  },
+  "NLO-513": {
+   "name": {
+    "last": "De Leon",
+    "first": "Darwin"
+   },
+   "list": "NLO",
+   "photo": {
+    "src": "players/NLO-513.webp",
+    "v": "8a0bb98a",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "De Leon, Darwin.jpg"
+   },
+   "status": "former"
+  },
+  "NLO-514": {
+   "name": {
+    "last": "Landeta",
+    "first": "David"
+   },
+   "list": "NLO",
+   "photo": {
+    "src": "players/NLO-514.webp",
+    "v": "03920f1b",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Landeta, David.jpg"
+   },
+   "status": "former"
+  },
+  "NLO-515": {
+   "name": {
+    "last": "Sherwin",
+    "first": "Anthony"
+   },
+   "list": "NLO",
+   "photo": {
+    "src": "players/NLO-515.webp",
+    "v": "283ae090",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Sherwin, Anthony.jpg"
+   },
+   "status": "former"
+  },
+  "NLO-516": {
+   "name": {
+    "last": "Trimble",
+    "first": "Justin"
+   },
+   "list": "NLO",
+   "photo": {
+    "src": "players/NLO-516.webp",
+    "v": "1039331d",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Trimble, Justin.jpg"
+   },
+   "status": "former"
+  },
+  "NLO-517": {
+   "name": {
+    "last": "Urias",
+    "first": "Manuel"
+   },
+   "list": "NLO",
+   "photo": {
+    "src": "players/NLO-517.webp",
+    "v": "37437475",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Urias, Manuel.jpg"
+   },
+   "status": "former"
+  },
+  "NLO-518": {
+   "name": {
+    "last": "Chavers",
+    "first": "Parker"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-519": {
+   "name": {
+    "last": "Pratt",
+    "first": "Karniel"
+   },
+   "list": "NLO",
+   "photo": {
+    "src": "players/NLO-519.webp",
+    "v": "762854e9",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Pratt, Karniel.jpg"
+   },
+   "status": "former"
+  },
+  "NLO-525": {
+   "name": {
+    "last": "Baez",
+    "first": "Luis"
+   },
+   "list": "NLO",
+   "photo": {
+    "src": "players/NLO-525.webp",
+    "v": "afe9407f",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Baez, Luis.jpg"
+   },
+   "status": "former"
+  },
+  "NLO-526": {
+   "name": {
+    "last": "Maldonado",
+    "first": "Anthony"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-527": {
+   "name": {
+    "last": "Strahm",
+    "first": "Kellen"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-528": {
+   "name": {
+    "last": "Winkler",
+    "first": "Jack"
+   },
+   "list": "NLO",
+   "photo": {
+    "src": "players/NLO-528.webp",
+    "v": "706b885a",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Winkler, Jack.jpg"
+   },
+   "status": "former"
+  },
+  "NLO-530": {
+   "name": {
+    "last": "Brito",
+    "first": "Anderson"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-531": {
+   "name": {
+    "last": "Castro",
+    "first": "Daniel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-532": {
+   "name": {
+    "last": "Montes",
+    "first": "Carlos"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-533": {
+   "name": {
+    "last": "Rosario",
+    "first": "Darwin"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-534": {
+   "name": {
+    "last": "Caldera",
+    "first": "Fernando"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-535": {
+   "name": {
+    "last": "Trehey",
+    "first": "Danny"
+   },
+   "list": "NLO",
+   "photo": {
+    "src": "players/NLO-535.webp",
+    "v": "0b244390",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Trehey, Danny.jpg"
+   },
+   "status": "former"
+  },
+  "NLO-536": {
+   "name": {
+    "last": "Collins",
+    "first": "Bryce"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-537": {
+   "name": {
+    "last": "Sacco",
+    "first": "Tommy"
+   },
+   "list": "NLO",
+   "photo": {
+    "src": "players/NLO-537.webp",
+    "v": "df2502b7",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Sacco, Tommy.jpg"
+   },
+   "status": "former"
+  },
+  "NLO-538": {
+   "name": {
+    "last": "France",
+    "first": "JP"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-539": {
+   "name": {
+    "last": "Apker",
+    "first": "Garrett"
+   },
+   "list": "NLO",
+   "photo": {
+    "src": "players/NLO-539.webp",
+    "v": "5f3a14d8",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Apker, Garrett.jpg"
+   },
+   "status": "former"
+  },
+  "NLO-540": {
+   "name": {
+    "last": "Carr",
+    "first": "Jordan"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-541": {
+   "name": {
+    "last": "Diaz",
+    "first": "Edwin"
+   },
+   "list": "NLO",
+   "photo": {
+    "src": "players/NLO-541.webp",
+    "v": "17330dd9",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Diaz, Edwin.jpg"
+   },
+   "status": "former"
+  },
+  "NLO-542": {
+   "name": {
+    "last": "Dunford",
+    "first": "Andrew"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-543": {
+   "name": {
+    "last": "Peña",
+    "first": "Jesús"
+   },
+   "list": "NLO",
+   "photo": {
+    "src": "players/NLO-543.webp",
+    "v": "2a2183e6",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Pena, Alain.jpg"
+   },
+   "status": "former"
+  },
+  "NLO-544": {
+   "name": {
+    "last": "Quesada",
+    "first": "Luis"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-545": {
+   "name": {
+    "last": "Steinbaugh",
+    "first": "Conor"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-546": {
+   "name": {
+    "last": "Trujillo",
+    "first": "Keduar"
+   },
+   "list": "NLO",
+   "photo": {
+    "src": "players/NLO-546.webp",
+    "v": "678e8d5e",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Trujillo, Keduar.jpg"
+   },
+   "status": "former"
+  },
+  "NLO-547": {
+   "name": {
+    "last": "Cuevas",
+    "first": "Michael"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-548": {
+   "name": {
+    "last": "Gonzalez",
+    "first": "Rafael"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-549": {
+   "name": {
+    "last": "Carlson",
+    "first": "Samuel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-555": {
+   "name": {
+    "last": "Dashwood",
+    "first": "Jack"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-556": {
+   "name": {
+    "last": "Cruz",
+    "first": "Narbe"
+   },
+   "list": "NLO",
+   "photo": {
+    "src": "players/NLO-556.webp",
+    "v": "c80248df",
+    "w": 480,
+    "h": 600,
+    "updated": "2026-10-23",
+    "source": "Club photo (supplied)",
+    "original": "Cruz, Narbe.jpg"
+   },
+   "status": "former"
+  },
+  "NLO-557": {
+   "name": {
+    "last": "Thaiss",
+    "first": "Matt"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-558": {
+   "name": {
+    "last": "Heredia",
+    "first": "Ricardo"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-559": {
+   "name": {
+    "last": "Brito",
+    "first": "Noel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-560": {
+   "name": {
+    "last": "De La Cruz",
+    "first": "Jose"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-561": {
+   "name": {
+    "last": "Colon",
+    "first": "Christian"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-562": {
+   "name": {
+    "last": "Perez",
+    "first": "Eduardo"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-563": {
+   "name": {
+    "last": "Ramirez",
+    "first": "Amauri"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-564": {
+   "name": {
+    "last": "Meza",
+    "first": "Nomar"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-565": {
+   "name": {
+    "last": "Rivero",
+    "first": "Gabriel"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "NLO-566": {
+   "name": {
+    "last": "Gonzalez",
+    "first": "Alex"
+   },
+   "list": "NLO",
+   "photo": null,
+   "status": "former"
+  },
+  "HOU-6380": {
+   "name": {
+    "last": "Correa",
+    "first": "Carlos"
+   },
+   "list": "40MAN",
+   "status": "active",
+   "new": true,
+   "level": "ML",
+   "rosterId": "6380",
+   "dob": "1994-09-22",
+   "dobSource": "Roster CSV 2026-10-23",
+   "added": "2026-10-23",
+   "photo": null
+  },
+  "HOU-12043": {
+   "name": {
+    "last": "Walker",
+    "first": "Christian"
+   },
+   "list": "40MAN",
+   "status": "active",
+   "new": true,
+   "level": "ML",
+   "rosterId": "12043",
+   "dob": "1991-03-28",
+   "dobSource": "Roster CSV 2026-10-23",
+   "added": "2026-10-23",
+   "photo": null
+  },
+  "HOU-38475": {
+   "name": {
+    "last": "Miller",
+    "first": "Joshua"
+   },
+   "list": "40MAN",
+   "status": "active",
+   "new": true,
+   "level": "ML",
+   "rosterId": "38475",
+   "dob": "1979-02-07",
+   "dobSource": "Roster CSV 2026-10-23",
+   "added": "2026-10-23",
+   "photo": null
+  },
+  "HOU-71514": {
+   "name": {
+    "last": "De Los Santos",
+    "first": "Enyel"
+   },
+   "list": "40MAN",
+   "status": "active",
+   "new": true,
+   "level": "ML",
+   "rosterId": "71514",
+   "dob": "1995-12-25",
+   "dobSource": "Roster CSV 2026-10-23",
+   "added": "2026-10-23",
+   "photo": null
+  },
+  "HOU-73478": {
+   "name": {
+    "last": "Wade",
+    "first": "LaMonte"
+   },
+   "list": "40MAN",
+   "status": "active",
+   "new": true,
+   "level": "ML",
+   "rosterId": "73478",
+   "dob": "1994-01-01",
+   "dobSource": "Roster CSV 2026-10-23",
+   "added": "2026-10-23",
+   "photo": null
+  },
+  "HOU-74007": {
+   "name": {
+    "last": "Brooks",
+    "first": "Trenton"
+   },
+   "list": "DOM",
+   "status": "active",
+   "new": true,
+   "level": "3A",
+   "rosterId": "74007",
+   "dob": "1995-07-03",
+   "dobSource": "Roster CSV 2026-10-23",
+   "added": "2026-10-23",
+   "photo": null,
+   "affiliate": "AAA Sugar Land"
+  },
+  "HOU-74257": {
+   "name": {
+    "last": "Paredes",
+    "first": "Isaac"
+   },
+   "list": "40MAN",
+   "status": "active",
+   "new": true,
+   "level": "ML",
+   "rosterId": "74257",
+   "dob": "1999-02-18",
+   "dobSource": "Roster CSV 2026-10-23",
+   "added": "2026-10-23",
+   "photo": null
+  },
+  "HOU-74500": {
+   "name": {
+    "last": "Shewmake",
+    "first": "Braden"
+   },
+   "list": "DOM",
+   "status": "active",
+   "new": true,
+   "level": "3A",
+   "rosterId": "74500",
+   "dob": "1997-11-19",
+   "dobSource": "Roster CSV 2026-10-23",
+   "added": "2026-10-23",
+   "photo": null,
+   "affiliate": "AAA Sugar Land"
+  },
+  "HOU-75059": {
+   "name": {
+    "last": "Wesneski",
+    "first": "Hayden"
+   },
+   "list": "40MAN",
+   "status": "active",
+   "new": true,
+   "level": "ML",
+   "rosterId": "75059",
+   "dob": "1997-12-05",
+   "dobSource": "Roster CSV 2026-10-23",
+   "added": "2026-10-23",
+   "photo": null
+  },
+  "HOU-77612": {
+   "name": {
+    "last": "Varsho",
+    "first": "Daulton"
+   },
+   "list": "40MAN",
+   "status": "active",
+   "new": true,
+   "level": "ML",
+   "rosterId": "77612",
+   "dob": "1996-07-02",
+   "dobSource": "Roster CSV 2026-10-23",
+   "added": "2026-10-23",
+   "photo": null
+  },
+  "HOU-77703": {
+   "name": {
+    "last": "Velazquez",
+    "first": "Nelson"
+   },
+   "list": "40MAN",
+   "status": "active",
+   "new": true,
+   "level": "ML",
+   "rosterId": "77703",
+   "dob": "1998-12-26",
+   "dobSource": "Roster CSV 2026-10-23",
+   "added": "2026-10-23",
+   "photo": null
+  },
+  "HOU-79966": {
+   "name": {
+    "last": "Barrosa",
+    "first": "Jorge"
+   },
+   "list": "40MAN",
+   "status": "active",
+   "new": true,
+   "level": "ML",
+   "rosterId": "79966",
+   "dob": "2001-02-17",
+   "dobSource": "Roster CSV 2026-10-23",
+   "added": "2026-10-23",
+   "photo": null
+  },
+  "HOU-80640": {
+   "name": {
+    "last": "Weiss",
+    "first": "Ryan"
+   },
+   "list": "DOM",
+   "status": "active",
+   "new": true,
+   "level": "3A",
+   "rosterId": "80640",
+   "dob": "1996-12-10",
+   "dobSource": "Roster CSV 2026-10-23",
+   "added": "2026-10-23",
+   "photo": null,
+   "affiliate": "AAA Sugar Land"
+  },
+  "HOU-80681": {
+   "name": {
+    "last": "Delgado",
+    "first": "Raynel"
+   },
+   "list": "40MAN",
+   "status": "active",
+   "new": true,
+   "level": "ML",
+   "rosterId": "80681",
+   "dob": "2000-04-04",
+   "dobSource": "Roster CSV 2026-10-23",
+   "added": "2026-10-23",
+   "photo": null
+  },
+  "HOU-81041": {
+   "name": {
+    "last": "Teng",
+    "first": "Kai-Wei"
+   },
+   "list": "40MAN",
+   "status": "active",
+   "new": true,
+   "level": "ML",
+   "rosterId": "81041",
+   "dob": "1998-12-01",
+   "dobSource": "Roster CSV 2026-10-23",
+   "added": "2026-10-23",
+   "photo": null
+  },
+  "HOU-93824": {
+   "name": {
+    "last": "Burrows",
+    "first": "Mike"
+   },
+   "list": "40MAN",
+   "status": "active",
+   "new": true,
+   "level": "ML",
+   "rosterId": "93824",
+   "dob": "1999-11-08",
+   "dobSource": "Roster CSV 2026-10-23",
+   "added": "2026-10-23",
+   "photo": null
+  },
+  "HOU-94142": {
+   "name": {
+    "last": "Hendrickson",
+    "first": "Josh"
+   },
+   "list": "40MAN",
+   "status": "active",
+   "new": true,
+   "level": "ML",
+   "rosterId": "94142",
+   "dob": "1997-09-18",
+   "dobSource": "Roster CSV 2026-10-23",
+   "added": "2026-10-23",
+   "photo": null
+  },
+  "HOU-94228": {
+   "name": {
+    "last": "Marrero",
+    "first": "Andrew"
+   },
+   "list": "DOM",
+   "status": "active",
+   "new": true,
+   "level": "2A",
+   "rosterId": "94228",
+   "dob": "2000-05-08",
+   "dobSource": "Roster CSV 2026-10-23",
+   "added": "2026-10-23",
+   "photo": null,
+   "affiliate": "AA Corpus Christi"
+  },
+  "HOU-106647": {
+   "name": {
+    "last": "Wiedman",
+    "first": "Thomas"
+   },
+   "list": "40MAN",
+   "status": "active",
+   "new": true,
+   "level": "ML",
+   "rosterId": "106647",
+   "dob": "1986-08-25",
+   "dobSource": "Roster CSV 2026-10-23",
+   "added": "2026-10-23",
+   "photo": null
+  },
+  "HOU-107148": {
+   "name": {
+    "last": "Moss",
+    "first": "Jack"
+   },
+   "list": "DOM",
+   "status": "active",
+   "new": true,
+   "level": "2A",
+   "rosterId": "107148",
+   "dob": "2001-10-30",
+   "dobSource": "Roster CSV 2026-10-23",
+   "added": "2026-10-23",
+   "photo": null,
+   "affiliate": "AA Corpus Christi"
+  },
+  "HOU-109021": {
+   "name": {
+    "last": "Shoemaker",
+    "first": "Adam"
+   },
+   "list": "DOM",
+   "status": "active",
+   "new": true,
+   "level": "2A",
+   "rosterId": "109021",
+   "dob": "2002-08-24",
+   "dobSource": "Roster CSV 2026-10-23",
+   "added": "2026-10-23",
+   "photo": null,
+   "affiliate": "AA Corpus Christi"
+  },
+  "HOU-197288": {
+   "name": {
+    "last": "Nigh",
+    "first": "Brandon"
+   },
+   "list": "DOM",
+   "status": "active",
+   "new": true,
+   "level": "1A",
+   "rosterId": "197288",
+   "dob": "2003-09-14",
+   "dobSource": "Roster CSV 2026-10-23",
+   "added": "2026-10-23",
+   "photo": null,
+   "affiliate": "A+ Asheville"
+  },
+  "HOU-197939": {
+   "name": {
+    "last": "Hughes",
+    "first": "Logan"
+   },
+   "list": "DOM",
+   "status": "active",
+   "new": true,
+   "level": "1F",
+   "rosterId": "197939",
+   "dob": "2005-04-27",
+   "dobSource": "Roster CSV 2026-10-23",
+   "added": "2026-10-23",
+   "photo": null,
+   "affiliate": "A Fayetteville"
+  },
+  "HOU-254089": {
+   "name": {
+    "last": "Estridge",
+    "first": "Carson"
+   },
+   "list": "DOM",
+   "status": "active",
+   "new": true,
+   "level": "1F",
+   "rosterId": "254089",
+   "dob": "2003-11-17",
+   "dobSource": "Roster CSV 2026-10-23",
+   "added": "2026-10-23",
+   "photo": null,
+   "affiliate": "A Fayetteville"
+  },
+  "HOU-277966": {
+   "name": {
+    "last": "Sisneros",
+    "first": "Cameron"
+   },
+   "list": "DOM",
+   "status": "active",
+   "new": true,
+   "level": "2A",
+   "rosterId": "277966",
+   "dob": "2001-06-01",
+   "dobSource": "Roster CSV 2026-10-23",
+   "added": "2026-10-23",
+   "photo": null,
+   "affiliate": "AA Corpus Christi"
+  },
+  "HOU-278719": {
+   "name": {
+    "last": "Wyers",
+    "first": "Drew"
+   },
+   "list": "DOM",
+   "status": "active",
+   "new": true,
+   "level": "2A",
+   "rosterId": "278719",
+   "dob": "2003-06-15",
+   "dobSource": "Roster CSV 2026-10-23",
+   "added": "2026-10-23",
+   "photo": null,
+   "affiliate": "AA Corpus Christi"
+  },
+  "HOU-296304": {
+   "name": {
+    "last": "Martin",
+    "first": "Max"
+   },
+   "list": "DOM",
+   "status": "active",
+   "new": true,
+   "level": "2A",
+   "rosterId": "296304",
+   "dob": "2003-12-08",
+   "dobSource": "Roster CSV 2026-10-23",
+   "added": "2026-10-23",
+   "photo": null,
+   "affiliate": "AA Corpus Christi"
+  },
+  "HOU-1250883": {
+   "name": {
+    "last": "Peterson",
+    "first": "Beau"
+   },
+   "list": "DOM",
+   "status": "active",
+   "new": true,
+   "level": "R",
+   "rosterId": "1250883",
+   "dob": "2007-08-03",
+   "dobSource": "Roster CSV 2026-10-23",
+   "added": "2026-10-23",
+   "photo": null,
+   "affiliate": "FCL"
+  },
+  "HOU-1291766": {
+   "name": {
+    "last": "Johnson",
+    "first": "Keon"
+   },
+   "list": "DOM",
+   "status": "active",
+   "new": true,
+   "level": "R",
+   "rosterId": "1291766",
+   "dob": "2008-03-07",
+   "dobSource": "Roster CSV 2026-10-23",
+   "added": "2026-10-23",
+   "photo": null,
+   "affiliate": "FCL"
+  }
+ },
+ "roster": {
+  "source": "Players_for_Directory_1.csv",
+  "date": "2026-10-23",
+  "players": 277,
+  "note": "Authoritative list of players currently with the organization. status: active/former; rosterList = list the player now appears under when it differs from \"list\"."
+ }
+}
